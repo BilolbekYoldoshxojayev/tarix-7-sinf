@@ -1,0 +1,554 @@
+[
+ {
+  "q": "Turk xoqonligi bo‘linib ketgach, nechtadan ortiq mustaqil hokimlik tashkil topdi?",
+  "a": "15 tadan ortiq",
+  "w": [
+   "7 tadan ortiq",
+   "10 tadan ortiq",
+   "25 tadan ortiq"
+  ],
+  "e": "Turk xoqonligi bir necha hokimliklarga bo‘linib, 15 dan ortiq mustaqil hokimlik tashkil topgan.",
+  "p": 39,
+  "src": "kimliklarga bo‘linib, 15 dan ortiq mustaqil"
+ },
+ {
+  "q": "Turk xoqonligining mahalliy sulolalar boshqaruvini saqlab qolishdan maqsadlaridan biri nima edi?",
+  "a": "Iqtisodiy taraqqiyot rivojini to‘xtatmaslik",
+  "w": [
+   "Mahalliy sulolalarni butunlay yo‘q qilish",
+   "O‘troq aholini ko‘chmanchilikka o‘tkazish",
+   "Mahalliy tillarni man etish"
+  ],
+  "e": "Maqsad o‘troq o‘lkalarda barqarorlikni ta’minlash, iqtisodiy taraqqiyotni to‘xtatmaslik va harbiy ko‘maklashuv edi.",
+  "p": 39,
+  "src": "iqtisodiy taraqqiyot rivojini to‘xtatmaslik va harbiy jihatdan ularga ko‘maklashuv bo‘lgan."
+ },
+ {
+  "q": "Mahalliy hukmdorlarning aksariyati Turk xoqonligi hukmdorlari bilan qanday aloqalarni o‘rnatgan?",
+  "a": "Qardoshlik aloqalarini",
+  "w": [
+   "Dushmanlik aloqalarini",
+   "Faqat savdo aloqalarini",
+   "Diniy-ruhoniy aloqalarni"
+  ],
+  "e": "Mahalliy hukmdorlar xoqonlik hukmdorlari bilan yaqinlashib, qardoshlik aloqalarini o‘rnatgan.",
+  "p": 39,
+  "src": "hukmdorlari bilan yaqinlashib, qardoshlik aloqalarini o‘rnatgani xoqonlik diplomatiyasining"
+ },
+ {
+  "q": "Toxaristonda nechta tog‘ va tog‘oldi viloyatlaridan iborat mustaqil hokimliklar bo‘lgan?",
+  "a": "27 ta",
+  "w": [
+   "12 ta",
+   "15 ta",
+   "40 ta"
+  ],
+  "e": "Toxaristonda 27 ta tog‘ va tog‘oldi viloyatlaridan iborat mustaqil hokimliklar bo‘lgan.",
+  "p": 40,
+  "src": "Toxaristonda 27 ta tog‘"
+ },
+ {
+  "q": "Toxariston hokimliklarining poytaxti qaysi shahar edi?",
+  "a": "Balx",
+  "w": [
+   "Samarqand",
+   "Kesh",
+   "Binkat"
+  ],
+  "e": "Toxaristonning poytaxti Balx shahri edi.",
+  "p": 40,
+  "src": "Uning poytaxti Balx shahri edi."
+ },
+ {
+  "q": "Toxariston aholisining asosiy qismi nima bilan shug‘ullangan?",
+  "a": "O‘troq dehqonchilik bilan",
+  "w": [
+   "Ko‘chmanchi chorvachilik bilan",
+   "Ovchilik bilan",
+   "Dengiz savdosi bilan"
+  ],
+  "e": "Toxariston aholisining asosiy qismi o‘troq dehqonchilik bilan shug‘ullangan.",
+  "p": 40,
+  "src": "Toxariston aholisining asosiy qismi o‘troq dehqonchilik bi lan shug‘ullangan."
+ },
+ {
+  "q": "Mustaqil hokimliklar orasida eng yirigi qaysi edi?",
+  "a": "Sug‘d ixshidlari",
+  "w": [
+   "Farg‘ona ixshidlari",
+   "Toxariston malikshohlari",
+   "Choch teginlari"
+  ],
+  "e": "Mustaqil hokimliklar orasida eng yirigi Sug‘d ixshidlari edi.",
+  "p": 41,
+  "src": "Mustaqil hokimliklar orasida eng yirigi Sug‘d"
+ },
+ {
+  "q": "Sug‘d ittifoqidagi Samarqand, Buxoro va Kesh viloyatida nechta yirik mulk birlashgan edi?",
+  "a": "O‘n bitta",
+  "w": [
+   "Yettita",
+   "O‘n beshta",
+   "Yigirmata"
+  ],
+  "e": "Kesh viloyatining o‘n bitta yirik mulklari birlashgan bo‘lib, ularning har biri o‘z hokimiga ega edi.",
+  "p": 41,
+  "src": "Kesh viloyatining o‘n bitta yirik"
+ },
+ {
+  "q": "Sug‘d ittifoqidagi mulklarning har biri nimaga ega edi?",
+  "a": "O‘z hokimi, harbiy chokarlari va mis puli birligiga",
+  "w": [
+   "O‘z xoqoni, qo‘shini va oltin tangasiga",
+   "O‘z qurultoyi, qal’asi va savdo yo‘liga",
+   "O‘z yozuvi, dini va kumush puli birligiga"
+  ],
+  "e": "Har bir mulk o‘z hokimi, harbiy chokarlari va mis puli birligiga ega bo‘lgan.",
+  "p": 41,
+  "src": "mulklari birlashgan bo‘lib, ularning har biri o‘z hokimi, harbiy chokarlari va mis puli"
+ },
+ {
+  "q": "Sug‘dning qaysi chorva mollari juda mashhur bo‘lgan?",
+  "a": "Hisori qo‘ylar va tulporlar",
+  "w": [
+   "Qoramol va tuyalar",
+   "Echki va eshaklar",
+   "Cho‘l tuyalari va xachirlar"
+  ],
+  "e": "Chorvachilikda Sug‘dning hisori qo‘ylari va tulporlari juda mashhur bo‘lgan.",
+  "p": 41,
+  "src": "Chorvachilikda Sug‘dning hisori qo‘ylari va tulporlari"
+ },
+ {
+  "q": "Sug‘d shaharlari bu davrda nimaning markaziga aylangan?",
+  "a": "Hunarmandchilik",
+  "w": [
+   "Chorvachilik",
+   "Dengiz savdosi",
+   "Harbiy ta’lim"
+  ],
+  "e": "Sug‘d shaharlari hunarmandchilikning markaziga aylangan.",
+  "p": 41,
+  "src": "Sug‘d shaharlari bu davrda hunarmandchilikning markaziga aylanadi."
+ },
+ {
+  "q": "Sug‘d qaysi davlat tanazzulidan keyin mustaqil davlatga aylangan?",
+  "a": "Qang‘ davlati",
+  "w": [
+   "Eftaliylar davlati",
+   "Sosoniylar davlati",
+   "Kushon davlati"
+  ],
+  "e": "Samarqandni poytaxt qilgan Sug‘d Qang‘ davlati tanazzulidan keyin mustaqil davlatga aylangan.",
+  "p": 41,
+  "src": "Qang‘ davlati tanazzulidan keyin mustaqil"
+ },
+ {
+  "q": "Sug‘dda davlat qaysi oliy organ orqali boshqarilgan?",
+  "a": "Oqsoqollar Kengashi",
+  "w": [
+   "Qurultoy",
+   "Xoqon devoni",
+   "Tudunlar kengashi"
+  ],
+  "e": "Sug‘dda davlat podsho orqali emas, Oqsoqollar Kengashi orqali boshqarilgan.",
+  "p": 42,
+  "src": "shahar amaldorlaridan iborat Oqsoqollar Kengashi"
+ },
+ {
+  "q": "Sug‘dda Oqsoqollar Kengashi qanday kishilardan iborat bo‘lgan?",
+  "a": "Yirik dehqon, savdogar va shahar amaldorlaridan",
+  "w": [
+   "Faqat harbiy sarkardalardan",
+   "Ruhoniylar va hunarmandlardan",
+   "Xoqon xonadoni vakillaridan"
+  ],
+  "e": "Kengash yirik dehqon, savdogar va shahar amaldorlaridan iborat bo‘lgan.",
+  "p": 42,
+  "src": "dogar va shahar amaldorlaridan iborat Oqsoqollar Kengashi"
+ },
+ {
+  "q": "Sug‘dda ixshidlar kim oldida hisob berib turgan?",
+  "a": "Oqsoqollar Kengashi oldida",
+  "w": [
+   "Xoqon oldida",
+   "Qurultoy oldida",
+   "Tudunlar oldida"
+  ],
+  "e": "Oqsoqollar Kengashi ixshidlik hokimiyatini cheklagan, ixshidlar kengash oldida hisob berib turgan.",
+  "p": 42,
+  "src": "Ixshidlar Oqsoqollar Kengashi oldida hisob berib turgan."
+ },
+ {
+  "q": "To‘n yabg‘uning ma’muriy islohotlari mahalliy boshqaruv tamoyillariga qanday ta’sir ko‘rsatgan?",
+  "a": "Deyarli o‘zgartirmagan, tudun va tarxonlar orqali mustahkamlagan",
+  "w": [
+   "Butunlay bekor qilib, yangi tartib o‘rnatgan",
+   "Mahalliy sulolalarni tugatib, noiblar o‘rnatgan",
+   "Hokimiyatni to‘liq ixshidlarga topshirgan"
+  ],
+  "e": "Islohotlar an’anaviy mahalliy boshqaruvni deyarli o‘zgartirmadi, tudunlar va tarxonlar orqali mustahkamladi.",
+  "p": 42,
+  "src": "boshqaruv tamoyillarini deyarli o‘zgartirmadi, aksincha, tudunlar, tarxonlar orqali uni mustahkamladi."
+ },
+ {
+  "q": "Farg‘ona hukmdorlari qanday nom bilan atalgan?",
+  "a": "Ixshid",
+  "w": [
+   "Afshin",
+   "Xudot",
+   "Malikshoh"
+  ],
+  "e": "Farg‘ona hukmdorlari ixshid deb atalgan.",
+  "p": 42,
+  "src": "Farg‘ona hukmdorlari ixshid deb atalgan."
+ },
+ {
+  "q": "Farg‘ona aholisi dehqonchilikda qaysi ekinlarni ekkan?",
+  "a": "Paxta va sholi",
+  "w": [
+   "Zig‘ir va kanop",
+   "Makkajo‘xori va kartoshka",
+   "Arpa va tariq"
+  ],
+  "e": "Farg‘ona aholisi dehqonchilik bilan kun kechirib, paxta va sholi ekkan.",
+  "p": 42,
+  "src": "aholisi dehqonchilik bilan kun kechirgan, paxta va sholi ekkan."
+ },
+ {
+  "q": "Farg‘onadan qo‘shni mamlakatlarga qanday mahsulotlar chiqarilgan?",
+  "a": "Bo‘yoq, rangli shisha va dori-darmonlar",
+  "w": [
+   "Oltin va kumush buyumlar",
+   "Qurol-yarog‘ va zirhlar",
+   "Hisori qo‘ylar va junlar"
+  ],
+  "e": "Farg‘onadan qo‘shni mamlakatlarga bo‘yoq, rangli shisha buyumlar va dori-darmonlar chiqarilgan.",
+  "p": 42,
+  "src": "bo‘yoq, rangli shisha buyumlar va"
+ },
+ {
+  "q": "Qurama va Qoramozor tog‘lari yon bag‘irlarida qadimdan nima bilan shug‘ullanilgan?",
+  "a": "Yilqichilik bilan",
+  "w": [
+   "Baliqchilik bilan",
+   "Ipakchilik bilan",
+   "Bog‘dorchilik bilan"
+  ],
+  "e": "Bu tog‘lar yon bag‘irlarida qadimdan yilqichilik bilan shug‘ullanilgan.",
+  "p": 42,
+  "src": "Qurama va Qoramozor tog‘lari yon ba g‘irlarida qadimdan yilqichilik"
+ },
+ {
+  "q": "Farg‘ona vodiysida ko‘paytirilgan qaysi otlarning dong‘i jahonga ketgan?",
+  "a": "Tulpor otlar",
+  "w": [
+   "Arab otlari",
+   "Eron otlari",
+   "Hind otlari"
+  ],
+  "e": "Farg‘ona vodiysida ko‘paytirilgan tulpor otlarning dong‘i jahonga ketgan.",
+  "p": 42,
+  "src": "tirilgan tulpor otlarning dong‘i jahonga ketgan."
+ },
+ {
+  "q": "Buyuk ipak yo‘li Qang‘ davlati davrida karvonlar orqali jumladan qaysi hududlarni o‘zaro bog‘lagan?",
+  "a": "Sug‘d va Chochni",
+  "w": [
+   "Xorazm va Toxaristonni",
+   "Farg‘ona va Keshni",
+   "Buxoro va Balxni"
+  ],
+  "e": "Buyuk ipak yo‘li Qang‘ davrida jumladan Sug‘d va Chochni o‘zaro bog‘lagan.",
+  "p": 43,
+  "src": "jumladan, Sug‘d va Chochni o‘zaro bog‘lagan"
+ },
+ {
+  "q": "Choch (Toshkent vohasi) qaysi daryolar havzalarida joylashgan?",
+  "a": "Chirchiq va Ohangaron",
+  "w": [
+   "Zarafshon va Qashqadaryo",
+   "Sirdaryo va Amudaryo",
+   "Surxondaryo va Sherobod"
+  ],
+  "e": "Choch Chirchiq va Ohangaron havzalarida joylashgan.",
+  "p": 43,
+  "src": "Choch (Toshkent vohasi) Chirchiq va Ohangaron havzalaridagi"
+ },
+ {
+  "q": "Choch Ipak yo‘lining qaysi yo‘nalishida strategik ahamiyatga ega bo‘lgan?",
+  "a": "Shimoli-sharqiy yo‘nalishida",
+  "w": [
+   "Janubi-g‘arbiy yo‘nalishida",
+   "Shimoli-g‘arbiy yo‘nalishida",
+   "Janubiy yo‘nalishida"
+  ],
+  "e": "Choch Ipak yo‘lining shimoli-sharqiy yo‘nalishida strategik ahamiyatga ega edi.",
+  "p": 43,
+  "src": "Choch Ipak yo‘lining shimoli-sharqiy yo‘nalishida strategik ahamiyatga ega bo‘lgan hudud"
+ },
+ {
+  "q": "Turk xoqonligi davrida Choch vohasida qaysi aholi yetakchi kuchga aylangan?",
+  "a": "Turkiylar",
+  "w": [
+   "Sug‘diylar",
+   "Eftaliylar",
+   "Xitoyliklar"
+  ],
+  "e": "Turk xoqonligi davrida turkiylar vohada yetakchi kuchga aylangan.",
+  "p": 43,
+  "src": "Turk xoqonligi davrida esa turkiylar vohada yetakchi kuchga aylandi."
+ },
+ {
+  "q": "Chochning turkiy hukmdorlari davlat ishlarini olib borishda qaysi til va yozuvdan foydalangan?",
+  "a": "Sug‘diy til va yozuvdan",
+  "w": [
+   "Xitoy til va yozuvidan",
+   "Arab til va yozuvidan",
+   "Fors til va yozuvidan"
+  ],
+  "e": "Voha turkiy hukmdorlari davlat ishlarida sug‘diy til va yozuvdan foydalangan.",
+  "p": 43,
+  "src": "haning turkiy hukmdorlari davlat ishlarini olib borishda sug‘diy til va yozuvdan"
+ },
+ {
+  "q": "Sug‘diy yozuv va tilda zarb etilgan VII–VIII asr tangalari fanda qanday nomlanadi?",
+  "a": "Turk-sug‘d namunasidagi tangalar",
+  "w": [
+   "Eftaliy-sug‘d namunasidagi tangalar",
+   "Xitoy-turk namunasidagi tangalar",
+   "Sosoniy-turk namunasidagi tangalar"
+  ],
+  "e": "Bunday tangalar fanda turk-sug‘d namunasidagi tangalar deb yuritiladi.",
+  "p": 43,
+  "src": "Bu fanda turk-sug‘d namunasidagi tangalar deb yuritiladi."
+ },
+ {
+  "q": "Chochda sug‘diy bilan bir qatorda turkiy til va yozuv ham amal qilgani qaysi shahar xarobasidan topilgan sopol idishdagi bitiklarda aks etgan?",
+  "a": "Qanha",
+  "w": [
+   "Binkat",
+   "Suyab",
+   "Afrosiyob"
+  ],
+  "e": "Bu Qanha shahri xarobasidan topilgan sopol idishdagi bitiklarda o‘z aksini topgan.",
+  "p": 43,
+  "src": "Qanha shahri xarobasidan topilgan sopol idishdagi bitiklarda"
+ },
+ {
+  "q": "Chochga sug‘diylarning kirib kelishi mahalliy a’yonlarning qaysi dinni qabul qilishiga sabab bo‘lgan?",
+  "a": "Zardushtiylikni",
+  "w": [
+   "Buddaviylikni",
+   "Islomni",
+   "Yahudiylikni"
+  ],
+  "e": "Sug‘diylarning kirib kelishi mahalliy a’yonlarning o‘troqlashib, zardushtiylikni qabul qilishiga sabab bo‘lgan.",
+  "p": 43,
+  "src": "halliy a’yonlarning o‘troqlashib, zardushtiylikni qabul qilishiga sabab bo‘lgan."
+ },
+ {
+  "q": "Chochda mahalliy turklar orasida qaysi din tarqalgan edi?",
+  "a": "Tangrichilik",
+  "w": [
+   "Islom",
+   "Buddaviylik",
+   "Yahudiylik"
+  ],
+  "e": "Choch ko‘plab dinlar kesishgan mintaqa bo‘lib, mahalliy turklarning tangrichiligi ham tarqalgan.",
+  "p": 43,
+  "src": "mahalliy turklarning tangrichilik,"
+ },
+ {
+  "q": "«Choch» nomini arablar qanday atagan?",
+  "a": "Shosh",
+  "w": [
+   "Iloq",
+   "Farab",
+   "Suyab"
+  ],
+  "e": "Arablar Chochni «Shosh» deb nomlagan, chunki arab alifbosida «ch» harfi bo‘lmagan.",
+  "p": 43,
+  "src": "«Choch» arablar tomonidan «Shosh» deb nomlangan."
+ },
+ {
+  "q": "Chochda Turk xoqonligi hukmronligi qachondan o‘rnatilgan?",
+  "a": "VI asr ikkinchi yarmidan",
+  "w": [
+   "V asr boshidan",
+   "VII asr oxiridan",
+   "VIII asr o‘rtasidan"
+  ],
+  "e": "VI asr ikkinchi yarmidan Chochda Turk xoqonligi hukmronligi o‘rnatilgan.",
+  "p": 44,
+  "src": "VI asr ikkinchi yarmidan Chochda Turk xoqonligi hukmronligi o‘rnatilib"
+ },
+ {
+  "q": "Xoqon Chochga hokim etib kimni tayinlagan?",
+  "a": "Tegin Tyanchjini",
+  "w": [
+   "Abruyni",
+   "Sheri Kishvarni",
+   "Varxumanni"
+  ],
+  "e": "Xoqon Chochga hokim etib Tegin Tyanchjini tayinlagan.",
+  "p": 44,
+  "src": "ga hokim etib Tegin Tyanchjini tayinlaydi."
+ },
+ {
+  "q": "Tegin Tyanchji G‘arbiy Turk xoqonligi yaratgan erkinlikdan foydalanib, qaysi davlat bilan diplomatik aloqa o‘rnatgan?",
+  "a": "Xitoy",
+  "w": [
+   "Vizantiya",
+   "Hindiston",
+   "Arabiston"
+  ],
+  "e": "Tegin Tyanchji Xitoy bilan diplomatik aloqa o‘rnatgan.",
+  "p": 44,
+  "src": "Xitoy bilan diplomatik aloqa o‘rnatdi."
+ },
+ {
+  "q": "Chochni qaysi sulola boshqargan?",
+  "a": "Teginlar sulolasi",
+  "w": [
+   "Ixshidlar sulolasi",
+   "Afshinlar sulolasi",
+   "Xorazmshohlar sulolasi"
+  ],
+  "e": "Teginlar sulolasi Chochni boshqargan.",
+  "p": 44,
+  "src": "Teginlar sulolasi Chochni boshqardi."
+ },
+ {
+  "q": "Choch ma’muriy boshqaruvida tegindan keyin kimlar turgan?",
+  "a": "Soliq yig‘ish bo‘yicha nozirlar – tudunlar",
+  "w": [
+   "Harbiy chokarlar",
+   "Oqsoqollar Kengashi a’zolari",
+   "Eltabarlar"
+  ],
+  "e": "Tegindan keyin soliq yig‘imlari nozirlari – tudunlar turgan.",
+  "p": 44,
+  "src": "taxt vorisi) keyin soliq yig‘ish bo‘yicha nozirlar"
+ },
+ {
+  "q": "To‘n yabg‘u o‘z qarorgohini qayerga ko‘chirgan?",
+  "a": "Choch yaqinidagi Mingbuloq mavzesiga",
+  "w": [
+   "Samarqand yaqinidagi Afrosiyobga",
+   "Farg‘ona vodiysidagi Quvaga",
+   "Balx shahriga"
+  ],
+  "e": "To‘n yabg‘u qarorgohini Choch yaqinidagi Mingbuloq mavzesiga ko‘chirgan.",
+  "p": 44,
+  "src": "To‘n yabg‘u o‘z qarorgohini Choch yaqinidagi Mingbuloq mavzesiga ko‘chirgan."
+ },
+ {
+  "q": "To‘n yabg‘u tushadigan soliqlar nazoratini kimlar orqali amalga oshirgan?",
+  "a": "Tudunlar orqali",
+  "w": [
+   "Ixshidlar orqali",
+   "Afshinlar orqali",
+   "Malikshohlar orqali"
+  ],
+  "e": "To‘n yabg‘u soliq nazoratini tudunlar orqali amalga oshirgan.",
+  "p": 45,
+  "src": "Tushadigan soliq nazoratini tudunlar orqali amalga oshirdi."
+ },
+ {
+  "q": "Poytaxtning ko‘chirilishi Ipak yo‘lida nimani ta’minladi?",
+  "a": "Savdo nazorati va tijorat ishining jonlanishini",
+  "w": [
+   "Savdo yo‘llarining yopilishini",
+   "Xitoy bilan savdoning to‘xtashini",
+   "Soliqlarning bekor qilinishini"
+  ],
+  "e": "Poytaxtning ko‘chirilishi Ipak yo‘lida savdo nazorati hamda tijorat ishining jonlanishini ta’minlagan.",
+  "p": 45,
+  "src": "Ipak yo‘lida savdo nazorati hamda tijorat ishining jonlanishini ta’minladi."
+ },
+ {
+  "q": "Choch tashqi savdoda qaysi mahsulotlarni chetga chiqargan?",
+  "a": "Kumush, metall va feruza",
+  "w": [
+   "Ipak, paxta va sholi",
+   "Qo‘y, ot va tuya",
+   "Shisha, bo‘yoq va dori-darmon"
+  ],
+  "e": "Davlat tashqi savdoda Lashkarak kumushlarini, Tunkat va To‘qkat metallini, moviy feruzalarini chetga chiqargan.",
+  "p": 45,
+  "src": "Lashkarak kumushlarini, Tunkat va To‘qkat metallini, moviy feruzalarini"
+ },
+ {
+  "q": "To‘n yabg‘u xoqonning Chochda muomalada bo‘lgan tangalari qanday nomlangan?",
+  "a": "Yabg‘u-xoqon puli",
+  "w": [
+   "Tardu xoqon puli",
+   "Choch puli",
+   "Teginlar puli"
+  ],
+  "e": "To‘n yabg‘u xoqonning tangalari yabg‘u-xoqon puli deb nomlangan.",
+  "p": 45,
+  "src": "yabg‘u-xoqon puli deb nomlanuvchi tangalari muomalada bo‘lgan."
+ },
+ {
+  "q": "Turkiy hokimlar tomonidan sug‘diy yozuvli tangalarning muomalaga kiritilishi nimaga yordam bergan?",
+  "a": "Iqtisodning o‘sishi va xalqaro savdoning rivojiga",
+  "w": [
+   "Sug‘d tilining yo‘qolishi va yozuvning unutilishiga",
+   "Ipak yo‘lining yopilishi va savdoning to‘xtashiga",
+   "Xoqonlikning bo‘linishi va tanazzulga uchrashiga"
+  ],
+  "e": "Sug‘diy yozuvli tangalar iqtisodning o‘sishi va xalqaro savdoning rivojiga yordam bergan.",
+  "p": 46,
+  "src": "tomonidan sug‘diy yozuvli tangalarning muomalaga kiritilishi iqtisodning o‘sishi va xalqaro savdoning rivojiga yordam bergan."
+ },
+ {
+  "q": "Choch savdogarlari chetga mahsulot olib chiqishda qaysi savdogarlar bilan birga ish yuritgan?",
+  "a": "Sug‘diy tujjorlar (savdogarlar) bilan",
+  "w": [
+   "Eftaliy savdogarlar bilan",
+   "Xitoy savdogarlari bilan",
+   "Hind savdogarlari bilan"
+  ],
+  "e": "Choch savdogarlari sug‘diy tujjor (savdogar)lar bilan chetga mahsulot olib chiqqan.",
+  "p": 46,
+  "src": "Choch savdogarlari sug‘diy tujjor (savdogar)lar bilan chetga mahsulot olib chiqib"
+ },
+ {
+  "q": "Xoqonlik nima uchun o‘z hududida barcha savdogarlarni himoya qilgan?",
+  "a": "Savdo aloqalari xoqonlik xazinasiga daromad keltirgani uchun",
+  "w": [
+   "Savdogarlar xoqon qarindoshlari bo‘lgani uchun",
+   "Savdogarlar harbiy xizmatga chaqirilgani uchun",
+   "Savdogarlar qurol-yarog‘ yetkazib bergani uchun"
+  ],
+  "e": "Savdo aloqalari xazinaga daromad keltirgani uchun xoqonlik savdogarlarni himoya qilgan.",
+  "p": 46,
+  "src": "Bu savdo aloqalari xoqonlik xazinasiga daromad"
+ },
+ {
+  "q": "Istehkomli qasr, qo‘rg‘on va ko‘shklar asosan qanday vazifani bajargan?",
+  "a": "Tashqi dushman hujumiga qarshi mudofaa inshooti vazifasini",
+  "w": [
+   "Savdo karvonlari to‘xtaydigan bozor vazifasini",
+   "Hukmdorlarning dam olish joyi vazifasini",
+   "Diniy marosimlar o‘tkaziladigan joy vazifasini"
+  ],
+  "e": "Ular asosan mudofaa inshooti, chokarlar to‘planadigan joy va ma’muriy markaz bo‘lgan.",
+  "p": 47,
+  "src": "mudofaa inshooti, chokarlar to‘planadigan joy, ma’muriy markaz"
+ },
+ {
+  "q": "O‘rta asrlarda shaharlar qaysi uch qismdan iborat bo‘lgan?",
+  "a": "Ko‘handiz, shahriston va rabod",
+  "w": [
+   "Ark, bozor va masjid",
+   "Qal’a, ko‘shk va qo‘rg‘on",
+   "Shahriston, anhor va darvoza"
+  ],
+  "e": "Shaharlar «ko‘handiz», «shahriston» va «rabod» deb yuritilgan uch qismdan iborat bo‘lgan.",
+  "p": 47,
+  "src": "Ular «ko‘ handiz», «shahriston», «rabod» deb yuritilgan."
+ }
+]

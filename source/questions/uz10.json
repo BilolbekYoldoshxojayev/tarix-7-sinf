@@ -1,0 +1,386 @@
+[
+ {
+  "q": "Tariximizdan darak beruvchi eng qadimgi yozma manba qaysi?",
+  "a": "«Avesto»",
+  "w": [
+   "«Manoqib al-atrok»",
+   "To‘nyuquq bitigi",
+   "Kultegin bitiktoshi"
+  ],
+  "e": "Eng qadimgi yozma manba «Avesto» hisoblanadi.",
+  "p": 55,
+  "src": "Tariximizdan darak beruvchi eng\nqadimgi yozma manba «Avesto»da"
+ },
+ {
+  "q": "«Avesto»da diniy ma’lumotlardan tashqari yana nimalar to‘plangan?",
+  "a": "Dunyoviy bilimlar, tarixiy voqealar va ma’naviy-ma’rifiy qarashlar",
+  "w": [
+   "Faqat qonun-qoidalar va soliqlar ro‘yxati",
+   "Faqat sayohatnomalar va xaritalar",
+   "Faqat harbiy yurishlar tavsifi"
+  ],
+  "e": "«Avesto»da dunyoviy bilimlar, tarixiy voqealar va ma’naviy-ma’rifiy qarashlar ham jamlangan.",
+  "p": 55,
+  "src": "dunyoviy bilimlar, tarixiy voqealar hamda"
+ },
+ {
+  "q": "Yozuvning paydo bo‘lishi ta’lim jarayoniga qanday ta’sir qilgan?",
+  "a": "Ta’lim jarayoni yanada jadallashgan",
+  "w": [
+   "Ta’lim jarayoni to‘xtab qolgan",
+   "Ta’lim faqat og‘zaki qolgan",
+   "Ta’lim faqat ibodatxonalarga xos bo‘lib qolgan"
+  ],
+  "e": "Yozuv paydo bo‘lishi bilan ta’lim rivoji jadallashgan.",
+  "p": 55,
+  "src": "yozuvning paydo bo‘lishi bilan bu jarayon\nyanada jadallashgan."
+ },
+ {
+  "q": "Zardushtiylarning ibodatxonasi Xorazmning qaysi joylaridan topilgan?",
+  "a": "Jonbosqal’a va Tuproqqal’a",
+  "w": [
+   "Afrosiyob va Varaxsha",
+   "Panjikent va Quva",
+   "Bolaliktepa va Chilpiq qal’a"
+  ],
+  "e": "Ibodatxona Xorazmdagi Jonbosqal’a va Tuproqqal’adan topilgan.",
+  "p": 55,
+  "src": "Jonbosqal’a va Tuproqqal’adan"
+ },
+ {
+  "q": "Xorazmdagi ibodatxona xonalaridan topilgan hujjatlar nimalarga yozilgan edi?",
+  "a": "Teri va yog‘ochga",
+  "w": [
+   "Qog‘ozga",
+   "Ipak matoga",
+   "Mis taxtachalarga"
+  ],
+  "e": "Xonalardan teriga va yog‘ochga yozilgan hujjatlar topilgan.",
+  "p": 55,
+  "src": "Xonalardan teriga va\nyog‘ochga yozilgan turli mazmundagi hujjatlar"
+ },
+ {
+  "q": "Xorazmdagi ibodatxonaga tutash binolarda qanday joylar bo‘lgan?",
+  "a": "Ta’lim maskanlari, huquq idoralari va ma’muriy-xo‘jalik joylar",
+  "w": [
+   "Omborxonalar va ustaxonalar",
+   "Sudxona va qamoqxona",
+   "Mehmonxona va karvonsaroy"
+  ],
+  "e": "Tutash binolarda ta’lim maskanlari, huquq idoralari va ma’muriy-xo‘jalik joylari bo‘lgan.",
+  "p": 55,
+  "src": "ta’lim maskanlari, huquq idoralari,\nma’muriy-xo‘jalik ishlari bilan shug‘ullanadigan joylar"
+ },
+ {
+  "q": "Xorazmda o‘g‘il bolalarga qanday fanlardan bilim berilgan?",
+  "a": "Geografiya, zoologiya, botanika, astronomiya, muhandislik, tibbiyot",
+  "w": [
+   "Falsafa, mantiq, ritorika, musiqa, she’riyat, notiqlik",
+   "Kimyo, fizika, informatika, iqtisod, mexanika, algebra",
+   "Diniy qonunlar, duolar, marosimlar, ibodat, qissalar"
+  ],
+  "e": "O‘g‘il bolalarga o‘qish, yozish, hisob-kitob bilan birga geografiya, astronomiya, tibbiyot va boshqa fanlar o‘rgatilgan.",
+  "p": 55,
+  "src": "geografiya, zoo-\nlogiya, botanika, astronomiya, muhandislik, tibbiyot va\nme’morchilik kabi"
+ },
+ {
+  "q": "Mamlakatimiz hududidagi dinlar ibodatxonalarida ta’lim oluvchilarga nima o‘rgatilgan?",
+  "a": "Dinning asoslari",
+  "w": [
+   "Faqat harbiy san’at",
+   "Faqat savdo yo‘llari xaritasi",
+   "Faqat hunarmandchilik sirlari"
+  ],
+  "e": "Ibodatxonalardagi maxsus maktablarda dinning asoslari o‘rgatilgan va xat-savod chiqarilgan.",
+  "p": 56,
+  "src": "ta’lim oluvchilarga din-\nning asoslari o‘rgatilgan."
+ },
+ {
+  "q": "Buddaviy o‘quv maskanlari – viharalarda asosiy fan sifatida nima o‘qitilgan?",
+  "a": "Daxarma – diniy qonun-qoidalar",
+  "w": [
+   "Astronomiya – yulduzlar ilmi",
+   "Geografiya – yerlar tavsifi",
+   "Tibbiyot – davolash ilmi"
+  ],
+  "e": "Viharalarda asosiy fan Daxarma, ya’ni diniy qonun-qoidalar bo‘lgan.",
+  "p": 56,
+  "src": "viharalarda asosiy fan sifatida Daxarma"
+ },
+ {
+  "q": "Yahudiylar Ossuriya quvg‘inlaridan keyin qayerlarga ko‘chib kelgan?",
+  "a": "Eronga, Samarqand va Buxoroga",
+  "w": [
+   "Misrga, Xitoyga va Hindistonga",
+   "Rimga, Yunonistonga va Vizantiyaga",
+   "Arabistonga, Suriyaga va Yamanga"
+  ],
+  "e": "Yahudiylar Eronga, Samarqand va Buxoroga ko‘chib kelgan.",
+  "p": 56,
+  "src": "Yahudiylar Ossuriya quvg‘inlaridan Eronga,"
+ },
+ {
+  "q": "Yahudiy jamoalari bilan birga qaysi qadimgi madaniyat kirib kelgan?",
+  "a": "Mesopotamiya madaniyati",
+  "w": [
+   "Misr madaniyati",
+   "Rim madaniyati",
+   "Xitoy madaniyati"
+  ],
+  "e": "Yahudiylar bilan birga qadimgi Mesopotamiya madaniyati ham kirib kelgan.",
+  "p": 56,
+  "src": "bilan birga qadimgi Mesopotamiyaning"
+ },
+ {
+  "q": "Turon hududidan o‘tgan savdo yo‘llarida eng qimmatbaho tovar nima hisoblangan?",
+  "a": "Yozuv materiallari va kitoblar",
+  "w": [
+   "Ipak va ziravorlar",
+   "Qurol-yarog‘ va zirhlar",
+   "Oltin va qimmatbaho toshlar"
+  ],
+  "e": "Savdo yo‘llarida eng qimmatbaho tovar yozuv materiallari va kitoblar bo‘lgan.",
+  "p": 56,
+  "src": "eng qimmatbaho tovar bu yozuv materiallari"
+ },
+ {
+  "q": "Samarqand va Buxoroda V asrda qaysi din tarqalgan?",
+  "a": "Xristianlik",
+  "w": [
+   "Buddaviylik",
+   "Zardushtiylik",
+   "Yahudiylik"
+  ],
+  "e": "V asrda Samarqand va Buxoroda xristianlik tarqalib, diniy muassasalar tashkil qilingan.",
+  "p": 57,
+  "src": "V asrda Samarqand va Buxoroda"
+ },
+ {
+  "q": "Sug‘ddagi katta nestoriyan jamoalarining hujjatlari qaysi tilda yozilgan?",
+  "a": "Sug‘d tilida",
+  "w": [
+   "Arab tilida",
+   "Yunon tilida",
+   "Xitoy tilida"
+  ],
+  "e": "Nestoriyan jamoalarining hujjatlari sug‘d tilida yozilgan.",
+  "p": 57,
+  "src": "Sug‘ddagi katta nestoriyan jamoalarining\nhujjatlari sug‘d tilida yozilgan."
+ },
+ {
+  "q": "Turk xoqonligidagi turkiy run (ko‘kturk) xati nechta harfdan iborat edi?",
+  "a": "38–40 ta",
+  "w": [
+   "22–24 ta",
+   "28–30 ta",
+   "50–52 ta"
+  ],
+  "e": "Turkiy run xati 38–40 ta harfdan iborat bo‘lgan.",
+  "p": 58,
+  "src": "38–40 ta harfdan iborat edi"
+ },
+ {
+  "q": "Ko‘kturk yozuvi nimalarga yozish uchun qulay bo‘lgan?",
+  "a": "Tosh va yog‘ochlarga o‘yib yozish uchun",
+  "w": [
+   "Ipak va charmga siyoh bilan yozish uchun",
+   "Qog‘ozga qalam bilan yozish uchun",
+   "Sopolga bo‘yoq bilan yozish uchun"
+  ],
+  "e": "Bu xat tosh va yog‘ochlarga o‘yib yozishga nihoyatda qulay bo‘lgan.",
+  "p": 58,
+  "src": "o‘yib yozishga nihoyatda qulay bo‘lgan"
+ },
+ {
+  "q": "Ko‘kturk bitiklari Oltoy va Sharqiy Turkistondan tashqari yana qaysi vodiylardan topilgan?",
+  "a": "Yettisuv, Farg‘ona va Zarafshon vodiylaridan",
+  "w": [
+   "Nil, Dajla va Furot vodiylaridan",
+   "Ganga, Hind va Braxmaputra vodiylaridan",
+   "Volga, Dnepr va Don vodiylaridan"
+  ],
+  "e": "Bitiklar Yettisuv, Farg‘ona va Zarafshon vodiylaridan ham topilgan.",
+  "p": 58,
+  "src": "Yettisuv, Farg‘ona\nva Zarafshon vodiylaridan topilgan qabrtoshlari"
+ },
+ {
+  "q": "To‘nyuquq bitigiga ko‘ra, u dunyoga kelgan paytda turk millati kimga tobe edi?",
+  "a": "Chinga",
+  "w": [
+   "Eronga",
+   "Arablarga",
+   "Eftaliylarga"
+  ],
+  "e": "To‘nyuquq Chinda dunyoga kelgan, u paytda turk millati Chinga tobe bo‘lgan.",
+  "p": 58,
+  "src": "Chunki u paytda turk millati Chinga tobe \nedi"
+ },
+ {
+  "q": "To‘nyuquq bitigiga ko‘ra, xoqon va turk millati qayerga joylashgach, barcha urug‘lar kelib ularga qo‘shilgan?",
+  "a": "O‘tukanga",
+  "w": [
+   "Samarqandga",
+   "Yettisuvga",
+   "Farg‘onaga"
+  ],
+  "e": "Xoqon va turk millati O‘tukanga joylashgach, barcha urug‘lar ularga qo‘shilgan.",
+  "p": 58,
+  "src": "Xoqon va turk millati\nO‘tukanga joylashishi bilan"
+ },
+ {
+  "q": "To‘nyuquq bitigidagi «Eltarish» nimani anglatadi?",
+  "a": "Millatni to‘plagan",
+  "w": [
+   "Dushmanni yengan",
+   "Yurtni himoya qilgan",
+   "Tangri yordamini olgan"
+  ],
+  "e": "Eltarish «millatni to‘plagan» xoqon deb izohlangan.",
+  "p": 58,
+  "src": "Eltarish (millatni to‘plagan) xoqon"
+ },
+ {
+  "q": "Surxon vohasida qaysi joydan devoriy suratlar va san’at namunalari topilgan?",
+  "a": "Bolaliktepa",
+  "w": [
+   "Quva",
+   "Panjikent",
+   "Chilpiq qal’a"
+  ],
+  "e": "Surxon vohasidagi Bolaliktepa yuksak san’at namunalari topilgan joylardan biridir.",
+  "p": 58,
+  "src": "Surxon vohasida Bolaliktepa"
+ },
+ {
+  "q": "Qaysi din haykaltaroshlik rivojiga ayniqsa kuchli ta’sir ko‘rsatgan?",
+  "a": "Buddaviylik",
+  "w": [
+   "Zardushtiylik",
+   "Yahudiylik",
+   "Tangrichilik"
+  ],
+  "e": "Haykaltaroshlik rivojiga ayniqsa buddaviylik dini kuchli ta’sir ko‘rsatgan.",
+  "p": 58,
+  "src": "Haykaltaroshlik rivojiga, ayniqsa,"
+ },
+ {
+  "q": "Sug‘d yozuvlari qayerlarda topilgan?",
+  "a": "Mug‘ tog‘i va Afrosiyobda",
+  "w": [
+   "Orxon vodiysi va Otukanda",
+   "Jonbosqal’a va Tuproqqal’ada",
+   "Marv va Nisoda"
+  ],
+  "e": "Mug‘ tog‘i va Afrosiyobda sug‘d yozuvlari topilgan.",
+  "p": 59,
+  "src": "Mug‘ tog‘i va Afrosiyobda topilgan sug‘d yozuvlari"
+ },
+ {
+  "q": "Tog‘li va tog‘oldi hududlarda to‘qimachilikda qaysi xomashyodan foydalanilgan?",
+  "a": "Jun",
+  "w": [
+   "Ipak",
+   "Zar ip",
+   "Kanop"
+  ],
+  "e": "Tog‘li va tog‘oldi hududlarda jun, vodiylarda ipak va ip matolardan foydalanilgan.",
+  "p": 59,
+  "src": "Tog‘li va tog‘oldi hududlarda jun, vodiylarda ipak va ip"
+ },
+ {
+  "q": "Naqshlarda asosan qaysi ranglardan foydalanilgan?",
+  "a": "Qizil, sariq, yashil, oq, qora",
+  "w": [
+   "Pushti, binafsha, jigarrang, kulrang",
+   "Havorang, to‘q sariq, pushti, qora",
+   "Binafsha, kulrang, jigarrang, yashil"
+  ],
+  "e": "Asosan qizil, sariq, yashil, oq va qora ranglar ishlatilgan.",
+  "p": 60,
+  "src": "Asosan qizil, sa-\nriq, yashil, oq, qora ranglardan foydalanilgan."
+ },
+ {
+  "q": "«Zandanachi» qanday matoning nomi?",
+  "a": "Ko‘k rangli ipak",
+  "w": [
+   "Qizil jun",
+   "Oq paxta",
+   "Sariq zar mato"
+  ],
+  "e": "Gazmol markazlarida «zandanachi» kabi ko‘k rangli ipak matolar ishlab chiqarilgan.",
+  "p": 60,
+  "src": "«zandanachi» kabi ko‘k \nrangli ipak"
+ },
+ {
+  "q": "Erkaklarning kiyimi nimaga qulay bo‘lgan?",
+  "a": "Otga minib yurishga",
+  "w": [
+   "Dengizda suzishga",
+   "Dalada ishlashga",
+   "Ibodatxonada ibodat qilishga"
+  ],
+  "e": "Erkaklar kiyimi otga minib yurishga qulay bo‘lib, kalta kaftan, ko‘ylak va baland qo‘njli etikdan iborat edi.",
+  "p": 60,
+  "src": "kalta kaftan va ko‘ylaklar,"
+ },
+ {
+  "q": "Ustki kiyimlarning (kaftan, yopinchiq va po‘stin) uzunligi qayergacha bo‘lgan?",
+  "a": "Tizzagacha",
+  "w": [
+   "Boldirgacha",
+   "Beligacha",
+   "To‘pig‘igacha"
+  ],
+  "e": "Ustki kiyimlarning uzunligi tizzagacha bo‘lgan.",
+  "p": 60,
+  "src": "yopinchiq va po‘stin) uzunligi tizzagacha bo‘lgan."
+ },
+ {
+  "q": "Kiyimning yoqasi, etagi va yengining uchi nima bilan bezatilgan?",
+  "a": "Boshqa rangli matodan qilingan hoshiya bilan",
+  "w": [
+   "Oltin va kumush tangalar bilan",
+   "Mayda qimmatbaho toshlar bilan",
+   "Hayvon terisidan qilingan yelkapo‘sh bilan"
+  ],
+  "e": "Kiyim chetlari boshqa rangli matodan qilingan hoshiya bilan bezatilgan.",
+  "p": 60,
+  "src": "boshqa\nrangli matodan qilingan hoshiya bilan bezatilardi."
+ },
+ {
+  "q": "Kaftan va yopinchiqlar bezagida qaysi davlatning kiyim bezaklari ta’siri sezilgan?",
+  "a": "Kushonlar",
+  "w": [
+   "Eftaliylar",
+   "Sosoniylar",
+   "Yunonlar"
+  ],
+  "e": "Kaftan va yopinchiq bezagida kushonlar tunikasimon ko‘ylagi bezaklarining ta’siri sezilgan.",
+  "p": 60,
+  "src": "kushonlar tunikasimon"
+ },
+ {
+  "q": "Taqinchoqlar shaxsning nimasini ko‘rsatgan?",
+  "a": "Ijtimoiy holatini",
+  "w": [
+   "Yoshini",
+   "Kasbini",
+   "Diniy mansubligini"
+  ],
+  "e": "Taqinchoqlar shaxsning ijtimoiy holatini ko‘rsatgan.",
+  "p": 60,
+  "src": "Ular shaxsning ijtimoiy holatini \nko‘rsatardi."
+ },
+ {
+  "q": "Toxaristonda belbog‘ni kimlar taqishgan?",
+  "a": "Faqat erkak va ayol xizmatchilar",
+  "w": [
+   "Aslzoda ayollar",
+   "Barcha erkaklar va ayollar",
+   "Faqat jangchilar"
+  ],
+  "e": "Toxaristonda faqat xizmatchilar belbog‘ taqqan, aslzoda ayollar belini bog‘lamagan.",
+  "p": 60,
+  "src": "Toxaristonda faqat erkak va ayol xizmatchilar belbog‘"
+ }
+]

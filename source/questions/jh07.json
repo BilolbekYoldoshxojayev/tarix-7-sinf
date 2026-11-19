@@ -1,0 +1,554 @@
+[
+ {
+  "q": "Arab qabilalari qaysi hududda yashab kelganlar?",
+  "a": "Arabiston yarimoroli va unga tutash yerlar",
+  "w": [
+   "Dunay daryosi bo‘ylaridagi yerlar",
+   "Elba va Dnepr oralig‘idagi yerlar",
+   "Hind daryosi vodiysi yerlari"
+  ],
+  "e": "Arab qabilalari Arabiston yarimoroli va unga tutash hududlarda yashagan.",
+  "p": 51,
+  "src": "Arabiston yarimoroli va unga \ntutash hududlarda yashab kelganlar"
+ },
+ {
+  "q": "Arablar qaysi til oilasiga mansub?",
+  "a": "Somiy (semit) tillar oilasiga",
+  "w": [
+   "Turkiy tillar oilasiga",
+   "Hind-yevropa tillar oilasiga",
+   "Slavyan tillar oilasiga"
+  ],
+  "e": "Arablar somiy (semit) tilli xalqlardan hisoblanadi.",
+  "p": 51,
+  "src": "Ular \nsomiy (semit) tilli xalqlardan bo‘lib"
+ },
+ {
+  "q": "Quyidagi xalqlardan qaysi biri arablar kabi somiy tilli xalqlarga kiradi?",
+  "a": "Yahudiylar",
+  "w": [
+   "Slavyanlar",
+   "Germanlar",
+   "Xazarlar"
+  ],
+  "e": "Somiy til oilasida arablardan tashqari yahudiylar, ossuriylar, finikiyaliklar va oromiylar so‘zlashgan.",
+  "p": 51,
+  "src": "arablardan tashqari, yahudiylar, ossuriylar"
+ },
+ {
+  "q": "Somiy tilli xalqlar qadimda qaysi podsholiklarni tuzganlar?",
+  "a": "Akkad, Bobil va Isroil",
+  "w": [
+   "Misr, Bobil va Eron",
+   "Akkad, Makka va Yaman",
+   "Isroil, Vizantiya va Bobil"
+  ],
+  "e": "Bu xalqlar Sharqning qadimgi davlatlari: Akkad, Bobil, Isroil podsholiklarini tuzganlar.",
+  "p": 51,
+  "src": "Akkad, Bobil, Isroil podsholiklarini tuzganlar"
+ },
+ {
+  "q": "Ko‘chmanchi arablar nima deb atalgan?",
+  "a": "Badaviylar (sahroyilar)",
+  "w": [
+   "Ansorlar",
+   "Muhojirlar",
+   "Sahobalar"
+  ],
+  "e": "Ko‘chmanchi arablar badaviylar (sahroyilar) deb atalgan.",
+  "p": 51,
+  "src": "Ko‘chmanchi arablar – badaviylar (sahroyilar)"
+ },
+ {
+  "q": "Badaviylar qaysi mashg‘ulotlar bilan shug‘ullanganlar?",
+  "a": "Tuyachilik, qo‘ychilik va yilqichilik",
+  "w": [
+   "Dehqonchilik, bog‘dorchilik va baliqchilik",
+   "Hunarmandchilik, ovchilik va asalarichilik",
+   "Dengiz savdosi va kemasozlik"
+  ],
+  "e": "Badaviylar tuyachilik, qo‘ychilik va yilqichilik bilan shug‘ullangan.",
+  "p": 51,
+  "src": "tuyachilik, qo‘ychi-\nlik va yilqichilik bilan shug‘ullanganlar"
+ },
+ {
+  "q": "Badaviylar hayotida qaysi hayvon eng muhim o‘rin tutgan?",
+  "a": "Tuya",
+  "w": [
+   "Ot",
+   "Qo‘y",
+   "Eshak"
+  ],
+  "e": "Arabistonning katta qismi tuyasiz yura olmaydigan hududlardan iborat edi.",
+  "p": 51,
+  "src": "Arabistonning katta \nqismi odamlar tuyasiz yura olmaydigan hududlardan \niborat edi."
+ },
+ {
+  "q": "Badaviylar qaysi tuyalarni qadim zamonlardan boqqanlar?",
+  "a": "Bir o‘rkachli tuyalarni",
+  "w": [
+   "Ikki o‘rkachli tuyalarni",
+   "Yovvoyi tuyalarni",
+   "Tog‘ tuyalarini"
+  ],
+  "e": "Badaviylar qadim zamonlardan bir o‘rkachli tuyalarni boqqanlar.",
+  "p": 52,
+  "src": "qadim za-\nmon lardan bir o‘rkachli \ntuyalarni boqqanlar"
+ },
+ {
+  "q": "Teridan tayyorlanadigan suv saqlaydigan meshni kimlar ixtiro qilgan?",
+  "a": "Badaviylar",
+  "w": [
+   "Yamanliklar",
+   "Makkaliklar",
+   "Finikiyaliklar"
+  ],
+  "e": "Tarixchilarga ko‘ra, mesh (sanoch)ni badaviylar ixtiro qilganlar.",
+  "p": 52,
+  "src": "badaviylar ixtiro qilganlar"
+ },
+ {
+  "q": "Arabistonning qaysi viloyatlari yuksak rivojlangan edi?",
+  "a": "Yaman va Xijoz",
+  "w": [
+   "Makka va Madina",
+   "Suriya va Iroq",
+   "Misr va Yaman"
+  ],
+  "e": "Arabistonning yuksak rivojlangan viloyatlari Yaman va Xijoz bo‘lgan.",
+  "p": 52,
+  "src": "Arabistonning yuksak rivojlangan viloyatlari \nYaman va Xijoz bo‘lgan"
+ },
+ {
+  "q": "Makka shahri qanday markaz bo‘lgan?",
+  "a": "Ko‘chmanchilar va mahalliy aholining mol ayirboshlash va savdo markazi",
+  "w": [
+   "Hunarmandlarning ilm-fan markazi",
+   "Dengiz portlari orasidagi kema ta’mirlash markazi",
+   "Chorvadorlarning hukumat markazi"
+  ],
+  "e": "Makka ko‘chmanchilar va mahalliy aholining mol ayirboshlash hamda savdo markazi bo‘lgan.",
+  "p": 52,
+  "src": "Makka shahri ko‘chmanchilar va mahalliy aholining mol ayirboshlash \nhamda savdo markazi bo‘lgan."
+ },
+ {
+  "q": "Arablarda “Yaman” so‘zi qanday ma’nolarni bildirgan?",
+  "a": "“Haq”, “baxtli”",
+  "w": [
+   "“Cho‘l”, “sahro”",
+   "“Tuya”, “yaylov”",
+   "“Suv”, “quduq”"
+  ],
+  "e": "Arablarda Yaman “haq”, “baxtli” ma’nolarini bildirgan.",
+  "p": 52,
+  "src": "Arablarda Yaman “haq”, “baxtli” ma’nolarini bildirgan."
+ },
+ {
+  "q": "Makkadagi qabila ilohlari, but va sanamlari saqlangan umumiy ziyoratgoh qanday nomlangan?",
+  "a": "Ka’ba",
+  "w": [
+   "Madina masjidi",
+   "Qora tosh",
+   "Yasrib"
+  ],
+  "e": "Makkadagi Ka’ba umumiy ziyoratgoh bo‘lib, unda qabila ilohlari, but va sanamlari saqlangan.",
+  "p": 52,
+  "src": "Makkadagi Ka’ba umumiy ziyoratgoh"
+ },
+ {
+  "q": "VI–VII asrlarda arab qabilalari orasida nima uchun kurash kuchaygan?",
+  "a": "Suv manbalari va yaylovlar uchun",
+  "w": [
+   "Savdo yo‘llarini egallash uchun",
+   "Din masalalari uchun",
+   "Dengiz sohillari uchun"
+  ],
+  "e": "Aholi soni ko‘payib, qabilalar orasida suv manbalari va yaylovlar uchun kurash kuchaygan.",
+  "p": 52,
+  "src": "qabilalar orasida suv manbalari va yaylovlar uchun kurash"
+ },
+ {
+  "q": "Arablarning ko‘pchiligi islomdan oldin qanday e’tiqodda bo‘lgan?",
+  "a": "Ko‘p xudolik dinlariga sig‘inganlar",
+  "w": [
+   "Xristianlikka e’tiqod qilganlar",
+   "Yakka xudolikka e’tiqod qilganlar",
+   "Buddaviylikka e’tiqod qilganlar"
+  ],
+  "e": "Arablarning ko‘pchiligi ko‘p xudolik dinlariga sig‘inib, quyosh, oy va yulduzlarga e’tiqod qilgan.",
+  "p": 52,
+  "src": "Arablarning ko‘pchiligi ko‘p xudolik \ndinlariga sig‘inganlar"
+ },
+ {
+  "q": "Payg‘ambar Muhammad (s.a.v.) qaysi yili tavallud topgan?",
+  "a": "570-yili",
+  "w": [
+   "610-yili",
+   "622-yili",
+   "632-yili"
+  ],
+  "e": "Muhammad (s.a.v.) 570-yili Makkada tavallud topgan.",
+  "p": 53,
+  "src": "570-yili Makkada quraysh"
+ },
+ {
+  "q": "Muhammad (s.a.v.) qaysi qabilaning qaysi urug‘iga mansub bo‘lgan?",
+  "a": "Quraysh qabilasining hoshimiylar urug‘iga",
+  "w": [
+   "Banu Sa’d qabilasining hoshimiylar urug‘iga",
+   "Quraysh qabilasining ansorlar urug‘iga",
+   "Yasrib qabilasining muhojirlar urug‘iga"
+  ],
+  "e": "U quraysh qabilasining hoshimiylar urug‘iga mansub oilada tavallud topgan.",
+  "p": 53,
+  "src": "quraysh qabila-\nsining hoshimiylar urug‘iga mansub"
+ },
+ {
+  "q": "Muhammad (s.a.v.) tarbiyasini bobosi vafotidan keyin kim o‘z zimmasiga olgan?",
+  "a": "Amakisi Abu Tolib",
+  "w": [
+   "Otasi Abdulloh",
+   "Bobosi Abdulmuttalib",
+   "Halima ismli ayol"
+  ],
+  "e": "Bobosi Abdulmuttalib vafot etgach, tarbiya qilishni amakisi Abu Tolib o‘z zimmasiga olgan.",
+  "p": 53,
+  "src": "tarbiya qilishni amakisi Abu Tolib o‘z zimmasiga oladi"
+ },
+ {
+  "q": "Muhammad (s.a.v.) bolaligida qaysi qabilaga mansub ayol tarbiyasida bo‘lgan?",
+  "a": "Banu Sa’d qabilasiga mansub Halima",
+  "w": [
+   "Quraysh qabilasiga mansub Omina",
+   "Hoshimiy qabilasiga mansub Halima",
+   "Banu Sa’d qabilasiga mansub Omina"
+  ],
+  "e": "Olti oyligidan banu sa’dlik Halima ismli ayol tarbiyasiga o‘tgan.",
+  "p": 53,
+  "src": "banu sa’dlik Halima ismli ayol tarbiyasiga o‘tib"
+ },
+ {
+  "q": "Muhammad (s.a.v.) tijorat ishlari bilan qaysi shaharlarga borganlar?",
+  "a": "Xalab va Damashq",
+  "w": [
+   "Madina va Yasrib",
+   "Bag‘dod va Basra",
+   "Misr va Iskandariya"
+  ],
+  "e": "Suriyaga safar qilib, Xalab va Damashq shaharlariga borganlar.",
+  "p": 53,
+  "src": "Xalab va Damashq shaharlariga boradilar"
+ },
+ {
+  "q": "Muhammad (s.a.v.) necha yoshda payg‘ambar bo‘lganlar?",
+  "a": "Qirq yoshda",
+  "w": [
+   "O‘n ikki yoshda",
+   "Yigirma uch yoshda",
+   "Oltmish yoshda"
+  ],
+  "e": "Muhammad (s.a.v.) qirq yoshida payg‘ambar bo‘lib, odamlarni Islomga da’vat qilgan.",
+  "p": 53,
+  "src": "qirq \nyoshida payg‘ambar bo‘lib"
+ },
+ {
+  "q": "Muhammad (s.a.v.) qaysi yili qaysi shaharda vafot etganlar?",
+  "a": "632-yili Madinada",
+  "w": [
+   "622-yili Makkada",
+   "630-yili Madinada",
+   "632-yili Makkada"
+  ],
+  "e": "Muhammad (s.a.v.) 632-yili Madina shahrida vafot etib, shu yerga dafn etilganlar.",
+  "p": 53,
+  "src": "632-yili \nMadina shahrida vafot etadilar"
+ },
+ {
+  "q": "Muhammad (s.a.v.)ga ilohiy oyatlar qaysi yildan nozil bo‘la boshlagan?",
+  "a": "610-yildan",
+  "w": [
+   "570-yildan",
+   "622-yildan",
+   "630-yildan"
+  ],
+  "e": "Islom manbalariga ko‘ra, 610-yildan boshlab oyatlar nozil bo‘la boshlagan.",
+  "p": 53,
+  "src": "610-yildan boshlab Alloh taolodan ilohiy oyatlar nozil bo‘la"
+ },
+ {
+  "q": "“Qur’on” so‘zi arabchada qanday ma’noni anglatadi?",
+  "a": "“Qiroat”, “o‘qish”",
+  "w": [
+   "“Itoat etish”",
+   "“Yo‘nalish”",
+   "“Ko‘chish”"
+  ],
+  "e": "Qur’on arabcha “qiroat”, “o‘qish” degan ma’noni bildiradi.",
+  "p": 53,
+  "src": "Qur’on (arabcha “qiroat”, “o‘qish”)"
+ },
+ {
+  "q": "Qur’on nechta suradan iborat?",
+  "a": "114 ta",
+  "w": [
+   "23 ta",
+   "40 ta",
+   "5 ta"
+  ],
+  "e": "Qur’on yigirma uch yil davomida nozil qilingan bo‘lib, 114 suradan iborat.",
+  "p": 53,
+  "src": "114 suradan iborat"
+ },
+ {
+  "q": "Makka savdogarlari Muhammad (s.a.v.)ning va’zlariga nega adovat bilan qarashgan?",
+  "a": "Yakkaxudolikka o‘tish ularga moddiy zarar keltirishidan qo‘rqqanlari uchun",
+  "w": [
+   "Ular xristianlikka e’tiqod qilib, majusiylikni rad etgani uchun",
+   "Ular Madina aholisi bilan urushda bo‘lgani uchun",
+   "Ular Ka’bani buzib tashlamoqchi bo‘lgani uchun"
+  ],
+  "e": "Savdogarlar majusiylikdan yakkaxudolikka o‘tish moddiy zarar keltirishidan qo‘rqqan.",
+  "p": 54,
+  "src": "yakkaxudolik diniga \no‘tish ularga moddiy zarar keltirishidan qo‘rqib"
+ },
+ {
+  "q": "Muhammad (s.a.v.) va sahobalari qaysi yili Yasribga hijrat qilganlar?",
+  "a": "622-yili",
+  "w": [
+   "570-yili",
+   "610-yili",
+   "630-yili"
+  ],
+  "e": "Milodiy 622-yili Yasribga hijrat qilishgan va shaharga Madina nomini berishgan.",
+  "p": 54,
+  "src": "milodiy 622-yili Yasribga hijrat (ko‘chish) qiladilar"
+ },
+ {
+  "q": "Musulmon yil hisobi qaysi voqeadan boshlanadi?",
+  "a": "622-yildagi hijratdan",
+  "w": [
+   "610-yilda oyatlar nozil bo‘lishidan",
+   "630-yilda Makkaning egallanishidan",
+   "570-yilda Muhammad (s.a.v.) tavallud topishidan"
+  ],
+  "e": "622-yil hijrat musulmon yil hisobining boshlanishi deb qabul qilinadi.",
+  "p": 54,
+  "src": "musulmon yil hisobining bosh-\nlanishi deb qabul qilinadi"
+ },
+ {
+  "q": "Madinaga ko‘chib o‘tgan kishilar qanday atalgan?",
+  "a": "Muhojirlar",
+  "w": [
+   "Ansorlar",
+   "Badaviylar",
+   "Xorijiylar"
+  ],
+  "e": "Ko‘chib o‘tganlar muhojirlar, Madinada islomni qabul qilganlar ansorlar deb atalgan.",
+  "p": 54,
+  "src": "muhojirlar (ko‘chib kelganlar)"
+ },
+ {
+  "q": "Muhammad (s.a.v.) Madinada nimalarni taqiqlagan?",
+  "a": "Sudxo‘rlik, ichkilik va qimor o‘yinlarini",
+  "w": [
+   "Savdo va chorvachilikni",
+   "Ibodat va ziyoratni",
+   "Hunarmandchilik va ovchilikni"
+  ],
+  "e": "U Allohga ibodat tartibini joriy etib, sudxo‘rlik, ichkilik, qimor o‘yinlarini taqiqlagan.",
+  "p": 54,
+  "src": "sudxo‘rlik, ichkilik, qimor o‘yinlarini"
+ },
+ {
+  "q": "“Islom” so‘zi arabchada qanday ma’noni bildiradi?",
+  "a": "“Itoat etish”, “bo‘ysunish”",
+  "w": [
+   "“Qiroat”, “o‘qish”",
+   "“Yo‘nalish”, “oqim”",
+   "“Ko‘chish”, “hijrat”"
+  ],
+  "e": "Islom arabcha “itoat etish”, “bo‘ysunish”, “o‘zini Alloh irodasiga topshirish” demakdir.",
+  "p": 54,
+  "src": "“itoat etish”, “bo‘ysunish”, “o‘zini Alloh irodasiga topshirish”"
+ },
+ {
+  "q": "Islom dinida nechta asosiy ustun (arkon) bor?",
+  "a": "Beshta",
+  "w": [
+   "Uchta",
+   "To‘rtta",
+   "Yettita"
+  ],
+  "e": "Islom dini beshta asos yoki ustunga ega.",
+  "p": 54,
+  "src": "Islom dini beshta asos yoki ustun"
+ },
+ {
+  "q": "Islom arkonlaridan biri bo‘lgan ro‘za qaysi oyda tutiladi?",
+  "a": "Ramazon oyida",
+  "w": [
+   "Zulhijja oyida",
+   "Muharram oyida",
+   "Rajab oyida"
+  ],
+  "e": "Voyaga yetgan va sog‘lom kishi Ramazon oyida bir oy ro‘za tutadi.",
+  "p": 54,
+  "src": "Ramazon oyida bir oy ro‘za tutishi"
+ },
+ {
+  "q": "Zakotni kim berishi kerak?",
+  "a": "Moli nisobiga yetgan kishi",
+  "w": [
+   "Har bir voyaga yetgan kishi",
+   "Faqat savdogarlar",
+   "Faqat Makka aholisi"
+  ],
+  "e": "Arkonlardan biriga ko‘ra, moli nisobiga yetgan kishi zakot beradi.",
+  "p": 54,
+  "src": "moli nisobiga yetgan kishining zakot berishi"
+ },
+ {
+  "q": "Haj nimani anglatadi?",
+  "a": "Makka va Madina shaharlariga ziyorat qilish",
+  "w": [
+   "Besh vaqt namoz o‘qish",
+   "Bir oy ro‘za tutish",
+   "Ramazon hayitini nishonlash"
+  ],
+  "e": "Haj Makka va Madina shaharlariga ziyorat bo‘lib, yo‘liga va puliga qodir kishi qiladi.",
+  "p": 54,
+  "src": "haj (Makka va Madina shaharlariga ziyorat) qilishi"
+ },
+ {
+  "q": "Qurbon hayiti Ramazon hayitidan necha kun o‘tib o‘tkaziladi?",
+  "a": "Yetmish kun",
+  "w": [
+   "O‘ttiz kun",
+   "Qirq kun",
+   "Yuz kun"
+  ],
+  "e": "Ramazon hayitidan yetmish kun o‘tib Qurbon hayiti o‘tkaziladi.",
+  "p": 54,
+  "src": "Undan yetmish kun o‘tib Qurbon hayiti o‘tkaziladi."
+ },
+ {
+  "q": "Musulmonlar haftaning qaysi kunini “kunlarning ulug‘i” deb hisoblaydilar?",
+  "a": "Juma kunini",
+  "w": [
+   "Payshanba kunini",
+   "Shanba kunini",
+   "Yakshanba kunini"
+  ],
+  "e": "Musulmonlar juma kunini “sayyid al-ayyom” – “kunlarning ulug‘i” deb hisoblaydilar.",
+  "p": 54,
+  "src": "haftaning \njuma kunini “sayyid al-ayyom"
+ },
+ {
+  "q": "Muhammad (s.a.v.) Makka shahrini qaysi yili jangsiz egallagan?",
+  "a": "630-yili",
+  "w": [
+   "622-yili",
+   "632-yili",
+   "610-yili"
+  ],
+  "e": "Madina va atrofni islomga o‘tkazgach, 630-yili Makkani jangsiz egallagan.",
+  "p": 54,
+  "src": "630-yili Makka shahrini jangsiz egallaydi"
+ },
+ {
+  "q": "Makka egallangach, Ka’badan nimalar chiqarib tashlangan?",
+  "a": "Barcha but va sanamlar",
+  "w": [
+   "Qora tosh",
+   "Qur’on nusxalari",
+   "Qabila bayroqlari"
+  ],
+  "e": "Sahobalar Ka’badan barcha but va sanamlarni chiqarib tashlashgan.",
+  "p": 54,
+  "src": "Ka’badan barcha but va sanamlarni chiqarib tashlashadi"
+ },
+ {
+  "q": "Arabiston shaharlari va ko‘chmanchi qabilalar qaysi asrda yagona davlatga birlashgan?",
+  "a": "VII asrda",
+  "w": [
+   "V asrda",
+   "IX asrda",
+   "XI asrda"
+  ],
+  "e": "Arabiston shaharlari va qabilalari islomni qabul qilib, VII asrda yagona davlatga birlashgan.",
+  "p": 54,
+  "src": "VII asrda yagona davlatga birlashadi"
+ },
+ {
+  "q": "“Mazhab” so‘zi arabchada qanday ma’nolarni bildiradi?",
+  "a": "“Yo‘nalish”, “oqim”, “yo‘l”",
+  "w": [
+   "“Itoat etish”, “bo‘ysunish”",
+   "“Qiroat”, “o‘qish”",
+   "“Ko‘chish”, “tarafdor”"
+  ],
+  "e": "Mazhab arabcha “yo‘nalish”, “oqim”, “yo‘l” ma’nolarini bildiradi.",
+  "p": 55,
+  "src": "“yo‘nalish”, “oqim”, “yo‘l” \nma’nolarini bildirib"
+ },
+ {
+  "q": "Islomdagi asosiy ikki yo‘nalish qaysilar?",
+  "a": "Sunniylik va shialik",
+  "w": [
+   "Hanafiylik va molikiylik",
+   "Sunniylik va xorijiylik",
+   "Shialik va ash’ariylik"
+  ],
+  "e": "Islomda asosan ikki yo‘nalish – sunniylik va shialik (Ali tarafdorlari) mavjud.",
+  "p": 55,
+  "src": "ikki yo‘nalish – sunniylik va shialik \n(Ali tarafdorlari)"
+ },
+ {
+  "q": "Xorijiylar yo‘nalishi qanday taqdir ko‘rgan?",
+  "a": "VII asr ikkinchi yarmida parchalanib, keyinchalik yo‘qolib ketgan",
+  "w": [
+   "Bugungi kunda musulmonlarning asosiy qismini tashkil etadi",
+   "Sunniylik bilan qo‘shilib ketgan",
+   "O‘rta Osiyoda keng yoyilgan"
+  ],
+  "e": "Xorijiylar VII asr ikkinchi yarmida parchalanib, keyinchalik yo‘qolib ketgan.",
+  "p": 55,
+  "src": "VII asrning ikkinchi yar-\nmida parchalanib, keyinchalik yo‘qolib ketgan"
+ },
+ {
+  "q": "Sunniylikda diniy qoidalarga rioya qilishda nimaga birdek amal qilinadi?",
+  "a": "Qur’on va payg‘ambar hadislari – “Sunna”ga",
+  "w": [
+   "Faqat Qur’oni karimning o‘ziga",
+   "Faqat ulamolarning shaxsiy fikriga",
+   "Xalifalarning chiqargan farmonlariga"
+  ],
+  "e": "Sunniylik Qur’oni karim va Muhammad (s.a.v.) hadislari – “Sunna”ga birdek amal qilishdir.",
+  "p": 55,
+  "src": "Qur’oni karim va payg‘ambar \nMuhammad (s.a.v.) hadislari – “Sunna”ga birdek amal \nqilishga aytiladi"
+ },
+ {
+  "q": "Quyidagilardan qaysi biri sunniylikdagi fiqhiy mazhab hisoblanadi?",
+  "a": "Hanbaliy",
+  "w": [
+   "Ash’ariy",
+   "Moturidiy",
+   "Xorijiy"
+  ],
+  "e": "Sunniylikda to‘rtta fiqhiy mazhab: Hanafiy, Shofe’iy, Molikiy va Hanbaliy bor.",
+  "p": 55,
+  "src": "Hanafiy, Shofe’iy, Molikiy, Hanbaliy"
+ },
+ {
+  "q": "O‘rta Osiyoda, xususan, O‘zbekistonda qaysi mazhab keng yoyilgan?",
+  "a": "Hanafiylik",
+  "w": [
+   "Shofe’iylik",
+   "Molikiylik",
+   "Hanbaliylik"
+  ],
+  "e": "O‘rta Osiyoda va O‘zbekistonda hanafiylik mazhabi keng yoyilgan.",
+  "p": 55,
+  "src": "hanafiylik \nmazhabi keng yoyilgan"
+ }
+]

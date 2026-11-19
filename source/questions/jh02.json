@@ -1,0 +1,842 @@
+[
+ {
+  "q": "Frank qabilalari dastlab qaysi daryoning quyi qismida yashaganlar?",
+  "a": "Reyn",
+  "w": [
+   "Dunay",
+   "Luara",
+   "Sena"
+  ],
+  "e": "Frank qabilalari dastlab Reyn daryosining quyi qismida yashagan.",
+  "p": 13,
+  "src": "Frank qabilalari dastlab Reyn daryosining"
+ },
+ {
+  "q": "Franklar qirolligining asoschisi kim bo‘lgan?",
+  "a": "Xlodvig",
+  "w": [
+   "Karl Martell",
+   "Pipin Pakana",
+   "Gugo Kapet"
+  ],
+  "e": "Franklar davlatining asoschisi Sali franklari yo‘lboshchisi Xlodvig bo‘lgan.",
+  "p": 14,
+  "src": "Uning asoschisi Meroveylar urug‘idan chiqqan,"
+ },
+ {
+  "q": "Xlodvig qaysi urug‘dan chiqqan?",
+  "a": "Meroveylar",
+  "w": [
+   "Karolinglar",
+   "Kapetinglar",
+   "Robertinlar"
+  ],
+  "e": "Xlodvig Meroveylar urug‘idan chiqqan, Sali franklari yo‘lboshchisi edi.",
+  "p": 14,
+  "src": "Uning asoschisi Meroveylar urug‘idan chiqqan,"
+ },
+ {
+  "q": "Franklar davlati qayerda barpo etilgan?",
+  "a": "Shimoliy Galliyada",
+  "w": [
+   "Janubiy Italiyada",
+   "Pireney yarimorolida",
+   "Reyn va Elba oralig‘ida"
+  ],
+  "e": "Franklar davlati Shimoliy Galliyada barpo etilgan.",
+  "p": 14,
+  "src": "Franklar davlati Shimoliy Galliyada barpo etiladi."
+ },
+ {
+  "q": "Xlodvig qo‘shini 486-yili qayerda Rim qo‘shinini yengdi?",
+  "a": "Suasson shahri yaqinida",
+  "w": [
+   "Puate shahri yaqinida",
+   "Verden shahri yaqinida",
+   "Axen shahri yaqinida"
+  ],
+  "e": "486-yili Suasson shahri yaqinida Xlodvig qo‘shini Rim qo‘shinini mag‘lub etgan.",
+  "p": 14,
+  "src": "qo‘shini 486-yili Suasson shahri yaqinida Rim qo‘shinini yengadi"
+ },
+ {
+  "q": "Xlodvig Rim qo‘shinini yengganidan so‘ng yana qaysi hududni egalladi?",
+  "a": "Janubiy Galliyani",
+  "w": [
+   "Shimoliy Italiyani",
+   "Ispaniyani",
+   "Saksoniyani"
+  ],
+  "e": "Xlodvig vestgotlarni bo‘ysundirib, Janubiy Galliyani ham egallagan.",
+  "p": 14,
+  "src": "Janubiy Galliyani ham egallaydi"
+ },
+ {
+  "q": "Xlodvig asos solgan sulola qanday nomlanadi?",
+  "a": "Merovinglar",
+  "w": [
+   "Karolinglar",
+   "Kapetinglar",
+   "Robertinlar"
+  ],
+  "e": "Xlodvig franklarning ilk qirolligi – Merovinglar sulolasiga asos solgan.",
+  "p": 14,
+  "src": "qirolligi – Merovinglar sulolasiga asos soldi"
+ },
+ {
+  "q": "Franklar qirolligida viloyatlarni boshqarish kimlarga topshirilgan?",
+  "a": "Graflarga",
+  "w": [
+   "Gersoglarga",
+   "Markgraflarga",
+   "Yepiskoplarga"
+  ],
+  "e": "Viloyatlarni boshqarish graflarga topshirilgan.",
+  "p": 14,
+  "src": "Viloyatlarni boshqarish graflarga topshirilgan."
+ },
+ {
+  "q": "Xlodvig qirolligining harbiy kuchi nimadan iborat bo‘lgan?",
+  "a": "Ko‘p sonli drujinadan",
+  "w": [
+   "Piyoda xalq lashkaridan",
+   "Otliq bo‘linmalardan",
+   "Yollanma qo‘shindan"
+  ],
+  "e": "Qirollikning harbiy kuchi ko‘p sonli drujina bo‘lgan.",
+  "p": 14,
+  "src": "Qirollikning harbiy kuchi ko‘p sonli drujina bo‘lgan."
+ },
+ {
+  "q": "Franklar Galliyani istilo qilganda mahalliy rim-gall zodagonlariga nisbatan qanday yo‘l tutganlar?",
+  "a": "Ularning yer-mulklariga tegmaganlar",
+  "w": [
+   "Yer-mulklarini musodara qilganlar",
+   "Hammasini qul qilganlar",
+   "Ularni mamlakatdan quvib chiqarganlar"
+  ],
+  "e": "Franklar rim-gall zodagonlarining yer-mulklariga tegmagan, shu sababli ular Xlodvigga yordam bergan.",
+  "p": 14,
+  "src": "rim-gall zodagonlarining yer-mulklariga tegmaydilar."
+ },
+ {
+  "q": "Franklarda aralash lotin-german tili keyinchalik qaysi tilning asosiga aylangan?",
+  "a": "Fransuz tilining",
+  "w": [
+   "Nemis tilining",
+   "Italyan tilining",
+   "Ispan tilining"
+  ],
+  "e": "Lotin-german aralash tili keyinchalik fransuz tilining asosiga aylangan.",
+  "p": 14,
+  "src": "u keyinchalik fransuz tilining asosiga aylanadi"
+ },
+ {
+  "q": "Franklarda yozish uchun qaysi til qo‘llanilgan?",
+  "a": "Lotin tili",
+  "w": [
+   "German tili",
+   "Grek tili",
+   "Arab tili"
+  ],
+  "e": "Yozish uchun faqat lotin tili qo‘llanilgan.",
+  "p": 14,
+  "src": "Yozish uchun faqat lotin tili qo‘llanilgan."
+ },
+ {
+  "q": "Xlodvigning buyrug‘i bilan Sali franklarining odat-qonunlari qaysi nom bilan bitilgan?",
+  "a": "“Sali haqiqati”",
+  "w": [
+   "“Rim huquqi”",
+   "“Karl farmonlari”",
+   "“Xlodvig yilnomasi”"
+  ],
+  "e": "Sali franklarining eski odat-qonunlari to‘planib, lotin tilida “Sali haqiqati” bitilgan.",
+  "p": 14,
+  "src": "“Sali haqiqati” bitiladi"
+ },
+ {
+  "q": "“Sali haqiqati”ga ko‘ra yer-mulk kimlar tomonidan meros qilib qoldirilgan?",
+  "a": "Faqat erkaklar tomonidan",
+  "w": [
+   "Faqat ayollar tomonidan",
+   "Faqat zodagonlar tomonidan",
+   "Faqat ruhoniylar tomonidan"
+  ],
+  "e": "Qonunga ko‘ra yer-mulk faqat erkaklar tomonidan avloddan-avlodga o‘tgan.",
+  "p": 14,
+  "src": "yer-mulk faqat erkaklar"
+ },
+ {
+  "q": "Xlodvig qaysi yili Rim cherkovi tartiblari bo‘yicha xristian dinini qabul qildi?",
+  "a": "496-yili",
+  "w": [
+   "486-yili",
+   "507-yili",
+   "732-yili"
+  ],
+  "e": "Qirol 496-yili xristian dinini qabul qilgan.",
+  "p": 15,
+  "src": "Qirol 496-yili Rim cherkovi tartiblari bo‘yicha"
+ },
+ {
+  "q": "Xlodvig xristianlikni qabul qilishdan qanday maqsadni ko‘zlagan?",
+  "a": "Rim-gall aholisini birlashtirish",
+  "w": [
+   "Arablarga qarshi ittifoq tuzish",
+   "Rim imperiyasini tiklash",
+   "Saksoniyani bo‘ysundirish"
+  ],
+  "e": "Xlodvig yangi din orqali davlat boshqaruvida rim-gall aholisini birlashtirish mumkinligini tushungan.",
+  "p": 15,
+  "src": "boshqaruvida rim-gall aholisini birlashtirish mumkinligini"
+ },
+ {
+  "q": "Katolik cherkovining boshlig‘i kim deb atalgan?",
+  "a": "Rim papasi",
+  "w": [
+   "Gersog",
+   "Abbat",
+   "Markgraf"
+  ],
+  "e": "Rim papasi katolik cherkovining boshlig‘idir.",
+  "p": 15,
+  "src": "Rim papasi (katolik cherkovining boshlig‘i)"
+ },
+ {
+  "q": "Xlodvigga qaysi cherkov aqidasi ma’qul kelgan?",
+  "a": "Har qanday hokimiyat xudodan degan aqida",
+  "w": [
+   "Barcha odamlar teng degan aqida",
+   "Qirol cherkovga bo‘ysunishi kerak degan aqida",
+   "Yer-mulk cherkovga tegishli degan aqida"
+  ],
+  "e": "Cherkovning har qanday hokimiyat xudodan degan aqidasi qirolga ma’qul kelgan.",
+  "p": 15,
+  "src": "har qanday hokimiyat xudodan degan aqidasi"
+ },
+ {
+  "q": "Xristianlik bilan tanishuv franklarga nimani o‘zlashtirish imkonini berdi?",
+  "a": "Rim madaniyatining turli sohalarini",
+  "w": [
+   "Arab ilm-fanini",
+   "Yunon falsafasini",
+   "Vizantiya qonunlarini"
+  ],
+  "e": "Xristianlik bilan tanishuv franklarga Rim madaniyati va turmush tarzini o‘zlashtirish imkonini bergan.",
+  "p": 15,
+  "src": "Xristianlik bilan tanishuv franklarga Rim madaniyatining"
+ },
+ {
+  "q": "Xlodvigning mamlakat hududlarini o‘g‘illariga taqsimlab berishi nimaga sabab bo‘ldi?",
+  "a": "Davlatning parchalanib ketishiga",
+  "w": [
+   "Davlatning kuchayishiga",
+   "Imperiya tashkil topishiga",
+   "Cherkov bilan to‘qnashuvga"
+  ],
+  "e": "Hududlarning taqsimlanishi keyinchalik davlatning parchalanishiga olib kelgan.",
+  "p": 15,
+  "src": "berishi keyinchalik davlatning parchalanib ketishiga sabab"
+ },
+ {
+  "q": "O‘tmishda yurtimizda Fransiya qanday nomlangan?",
+  "a": "Farangiston",
+  "w": [
+   "Galliya",
+   "Frankiston",
+   "Normandiya"
+  ],
+  "e": "O‘tmishda yurtimizda Fransiyani Farangiston, aholisini esa faranglar deyishgan.",
+  "p": 15,
+  "src": "yurtimizda uni Farangiston"
+ },
+ {
+  "q": "Karl Martellning otliq qo‘shini arablar hujumini qaysi jangda to‘xtatdi?",
+  "a": "732-yilgi Puate jangida",
+  "w": [
+   "486-yilgi Suasson jangida",
+   "778-yilgi Ronseval jangida",
+   "843-yilgi Verden jangida"
+  ],
+  "e": "Yetti kun davom etgan 732-yilgi Puate jangida arablarning hujumi to‘xtatilgan.",
+  "p": 16,
+  "src": "Yetti kun davom etgan 732-yilgi Puate jangida Karlning otliq"
+ },
+ {
+  "q": "Karlga “Martell” laqabi nima uchun berilgan?",
+  "a": "Puate jangidagi g‘alaba sharafiga",
+  "w": [
+   "Rim papasiga yordami uchun",
+   "Saksoniyani bo‘ysundirgani uchun",
+   "Ispan markasini tuzgani uchun"
+  ],
+  "e": "“Martell” (Bolg‘a) laqabi Puate jangidagi g‘alaba sharafiga berilgan.",
+  "p": 16,
+  "src": "Karlga “Martell” (Bolg‘a) laqabi beriladi."
+ },
+ {
+  "q": "“Martell” so‘zi qanday ma’noni anglatadi?",
+  "a": "Bolg‘a",
+  "w": [
+   "Pakana",
+   "Buyuk",
+   "Otliq"
+  ],
+  "e": "“Martell” – Bolg‘a degani.",
+  "p": 16,
+  "src": "Karlga “Martell” (Bolg‘a) laqabi beriladi."
+ },
+ {
+  "q": "Karl Martell davrida franklarga qaysi tomondan bosqin boshlangan?",
+  "a": "Pireney tog‘lari ortidan Arab xalifaligi tomondan",
+  "w": [
+   "Alp tog‘lari ortidan langobardlar tomondan",
+   "Reyn daryosi ortidan saks qabilalari tomondan",
+   "Dunay ortidan avarlar tomondan"
+  ],
+  "e": "Pireney tog‘lari ortidan Arab xalifaligi qo‘shini franklar hududiga bostirib kirgan.",
+  "p": 16,
+  "src": "Pireney tog‘lari ortidan Arab xalifaligi qo‘shinining"
+ },
+ {
+  "q": "Karl Martell benefitsiy islohotini nima maqsadda o‘tkazdi?",
+  "a": "Doimo urushga tayyor otliq qo‘shin tuzish uchun",
+  "w": [
+   "Cherkov yerlarini ko‘paytirish uchun",
+   "Savdoni rivojlantirish uchun",
+   "Soliqlarni kamaytirish uchun"
+  ],
+  "e": "Karl Martell o‘ziga xizmat qiladigan harbiy kishilar sonini ko‘paytirish uchun yer taqsimlagan.",
+  "p": 17,
+  "src": "urushga tayyor otliq qo‘shin tuzish"
+ },
+ {
+  "q": "Benefitsiy dastlab qanday yer hisoblangan?",
+  "a": "Merosiy bo‘lmay, harbiy xizmat muddatiga berilgan yer",
+  "w": [
+   "Merosga o‘tadigan doimiy yer",
+   "Cherkovga tegishli yer",
+   "Faqat qirol oilasiga berilgan yer"
+  ],
+  "e": "Dastlab benefitsiy merosiy bo‘lmagan, harbiy xizmat bajarish muddatiga berilgan.",
+  "p": 17,
+  "src": "Bunday yerlar merosiy bo‘lmay"
+ },
+ {
+  "q": "Jangchi harbiy xizmatni bajarmay qo‘ysa, benefitsiyga nima bo‘lgan?",
+  "a": "U olib qo‘yilgan",
+  "w": [
+   "U merosga o‘tgan",
+   "U cherkovga berilgan",
+   "U sotib yuborilgan"
+  ],
+  "e": "Harbiy xizmatni bajarmagan jangchidan benefitsiy olib qo‘yilgan.",
+  "p": 17,
+  "src": "xizmatni bajarmay qo‘ysa, benefitsiy olib qo‘yilgan."
+ },
+ {
+  "q": "Benefitsiy islohoti oqibatida nima shakllandi?",
+  "a": "Feodallar toifasi va ritsarlik asoslari",
+  "w": [
+   "Dehqonlar jamoasi",
+   "Shahar hunarmandlari ittifoqi",
+   "Xalq yig‘inlari"
+  ],
+  "e": "Islohot oqibatida feodallar toifasi shakllanib, o‘rta asr ritsarligi asoslari yaratilgan.",
+  "p": 17,
+  "src": "o‘rta asr ritsarligi asoslari yaratiladi"
+ },
+ {
+  "q": "Pipin Pakana otasidan farqli ravishda cherkovga nisbatan qanday siyosat yurgizdi?",
+  "a": "Cherkov bilan yaqinlashish siyosatini",
+  "w": [
+   "Cherkov yerlarini musodara qilishni davom ettirdi",
+   "Cherkovni yopib qo‘ydi",
+   "Papani mamlakatdan quvdi"
+  ],
+  "e": "Pipin cherkov yerlarini musodara qilishdan voz kechib, cherkov bilan yaqinlashgan.",
+  "p": 17,
+  "src": "otasi yuritgan cherkov yerlarini musodara qilish"
+ },
+ {
+  "q": "Pipin Pakana nima uchun papalar yordamiga muhtoj edi?",
+  "a": "O‘zi qirol bo‘lish uchun",
+  "w": [
+   "Arablarga qarshi kurashish uchun",
+   "Langobardlarni bo‘ysundirish uchun",
+   "Saksoniyani xristianlashtirish uchun"
+  ],
+  "e": "Pipin taxtga o‘tirish uchun papalarning qo‘llab-quvvatlashiga muhtoj bo‘lgan.",
+  "p": 17,
+  "src": "Meroving qirollarini taxtdan tushirib, o‘zi qirol bo‘lishi uchun"
+ },
+ {
+  "q": "Pipin Pakana qaysi yili franklar qiroli deb e’lon qilindi?",
+  "a": "751-yili",
+  "w": [
+   "732-yili",
+   "756-yili",
+   "800-yili"
+  ],
+  "e": "751-yil Suasson shahridagi yig‘ilishda Pipin franklar qiroli deb e’lon qilingan.",
+  "p": 17,
+  "src": "Suasson shahridagi frank zodagonlarining yig‘ilishida Pipin franklar qiroli"
+ },
+ {
+  "q": "Karolinglar sulolasi qaysi yillarda rasman hukmronlik qilgan?",
+  "a": "751–987-yillarda",
+  "w": [
+   "486–751-yillarda",
+   "800–843-yillarda",
+   "987–1137-yillarda"
+  ],
+  "e": "Karolinglar sulolasi 751–987-yillarda rasman hukmronlik qilgan.",
+  "p": 17,
+  "src": "Karolinglar sulolasi rasman (751–987-yillar) hukmronlik qila"
+ },
+ {
+  "q": "Sulola nima uchun Karolinglar deb nomlangan?",
+  "a": "Avlodining eng mashhur vakili Karl nomidan",
+  "w": [
+   "Asoschisi Karl Martell nomidan",
+   "Papa Karl nomidan",
+   "Karolina viloyati nomidan"
+  ],
+  "e": "Asoschisi Pipin bo‘lsa-da, tarixchilar sulolani eng mashhur vakili Karl nomidan atashgan.",
+  "p": 17,
+  "src": "avlodining eng mashhur vakili Karl nomidan"
+ },
+ {
+  "q": "756-yili Pipin yordamida Italiyada qanday davlat vujudga keldi?",
+  "a": "Papaning dunyoviy davlati",
+  "w": [
+   "Langobardlar qirolligi",
+   "Ispan markasi",
+   "Burgundiya gersogligi"
+  ],
+  "e": "Ushbu hududda 756-yili papaning dunyoviy davlati (hozirgi Vatikan) vujudga kelgan.",
+  "p": 17,
+  "src": "Ushbu hududda 756-yili papaning dunyoviy davlati"
+ },
+ {
+  "q": "Papa Pipindan yordam so‘ragan paytda Rimni qamal qilgan qabila qaysi edi?",
+  "a": "Langobardlar",
+  "w": [
+   "Sakslar",
+   "Vestgotlar",
+   "Avarlar"
+  ],
+  "e": "Langobard qabilalari Rimni qamalga olganida papa Pipinga murojaat qilgan.",
+  "p": 17,
+  "src": "germanlarning langobard qabilalari Rimni qamalga olganida"
+ },
+ {
+  "q": "Pipinga “Pakana” laqabi nima uchun berilgan?",
+  "a": "Bo‘yi past (135 sm) bo‘lgani uchun",
+  "w": [
+   "Yoshi kichik bo‘lgani uchun",
+   "Kuchsiz bo‘lgani uchun",
+   "Kamtar bo‘lgani uchun"
+  ],
+  "e": "Pipinning bo‘yi haqiqatdan ham past bo‘lgan.",
+  "p": 18,
+  "src": "uning bo‘yi haqiqatdan ham past bo‘lgan (135 cm)"
+ },
+ {
+  "q": "Buyuk Karl franklar davlatini necha yil boshqargan?",
+  "a": "46 yil",
+  "w": [
+   "53 yil",
+   "31 yil",
+   "12 yil"
+  ],
+  "e": "Karl 768–814-yillarda, ya’ni 46 yil franklar davlatini boshqargan.",
+  "p": 18,
+  "src": "franklar davlatini (768–814) 46 yil boshqargan"
+ },
+ {
+  "q": "Karlning lotincha ismidan Yevropa hukmdorlari o‘zlarini qanday atay boshlaganlar?",
+  "a": "Korol (qirol)",
+  "w": [
+   "Kapet",
+   "Gersog",
+   "Markgraf"
+  ],
+  "e": "Karolus ismidan Yevropa hukmdorlari o‘zlarini korol (qirol) deb atay boshlagan.",
+  "p": 18,
+  "src": "hukmdorlari o‘zlarini korol (qirol) deb atay"
+ },
+ {
+  "q": "Karlning hukmronlik yillarida nechta harbiy yurish olib borilgan?",
+  "a": "53 ta",
+  "w": [
+   "35 ta",
+   "46 ta",
+   "12 ta"
+  ],
+  "e": "Karl davrida 53 ta harbiy yurish olib borilgan.",
+  "p": 18,
+  "src": "Karlning hukmronlik yillarida 53 ta harbiy yurishlar olib borilgan."
+ },
+ {
+  "q": "Karl Italiyaga yurishlarni kimga ko‘maklashish uchun amalga oshirdi?",
+  "a": "Rim papasiga",
+  "w": [
+   "Vizantiya imperatoriga",
+   "Arab xalifasiga",
+   "Langobardlar qiroliga"
+  ],
+  "e": "Karl Rim papasiga ko‘maklashish uchun ikki marta Alp tog‘laridan oshib o‘tgan.",
+  "p": 18,
+  "src": "Rim papasiga ko‘maklashish uchun ikki marta Alp"
+ },
+ {
+  "q": "Karl langobardlar qiroliga nima qildi?",
+  "a": "Mag‘lub etib, asirga oldi",
+  "w": [
+   "Sulh tuzib, do‘st tutindi",
+   "Papaga topshirdi",
+   "Taxtda qoldirdi"
+  ],
+  "e": "Karl langobardlarni mag‘lub etib, ularning qirolini asirga olgan.",
+  "p": 18,
+  "src": "Karl langobardlarni mag‘lub etib, ularning"
+ },
+ {
+  "q": "Karl arablar hukmronligidagi Ispaniyadan bosib olingan kichik hududda nima tuzdi?",
+  "a": "Ispan markasini",
+  "w": [
+   "Ispan gersogligini",
+   "Ispan grafligini",
+   "Ispan xalifaligini"
+  ],
+  "e": "Bosib olingan kichik hududda Ispan markasi tuzilgan.",
+  "p": 18,
+  "src": "Bosib olingan kichik hududda Ispan markasi tuziladi."
+ },
+ {
+  "q": "Frank qo‘shinlarining eng uzoq davom etgan va og‘ir urushlari qaysi qabilalarga qarshi bo‘lgan?",
+  "a": "Sakslarga",
+  "w": [
+   "Langobardlarga",
+   "Vestgotlarga",
+   "Avarlarga"
+  ],
+  "e": "Reyn va Elba oralig‘ida yashagan saks qabilalariga qarshi 772–804-yillarda urush olib borilgan.",
+  "p": 18,
+  "src": "Reyn va Elba daryolari oralig‘ida yashagan saks qabilalariga qarshi (772–804)"
+ },
+ {
+  "q": "Karl sakslarni bo‘ysundirgach, ularni nimaga majbur qildi?",
+  "a": "Xristian dinini qabul qilishga",
+  "w": [
+   "Islom dinini qabul qilishga",
+   "Ko‘chib ketishga",
+   "Soliqdan ozod bo‘lishga"
+  ],
+  "e": "Karl shafqatsizlik bilan sakslarning xristian dinini qabul qilishiga erishgan.",
+  "p": 19,
+  "src": "sakslarning xristian dinini qabul qilishlariga"
+ },
+ {
+  "q": "Karlni imperator deb e’lon qilish imkoniyati qaysi voqea tufayli paydo bo‘ldi?",
+  "a": "Rim zodagonlarining papa Lev III ga qarshi isyoni",
+  "w": [
+   "Langobardlarning Rimni qamal qilishi",
+   "Arablarning Fransiyaga bostirib kirishi",
+   "Verden shartnomasi"
+  ],
+  "e": "800-yilda Rimda papa Lev III ga qarshi isyon ko‘tarilgan, Karl uni bostirgan.",
+  "p": 19,
+  "src": "papa Lev III ga qarshi ko‘tarilgan isyondan foydalanib"
+ },
+ {
+  "q": "Karlga imperatorlik tojini qaysi ibodatxonada kiygizishgan?",
+  "a": "Avliyo Pyotr ibodatxonasida",
+  "w": [
+   "Axen soborida",
+   "Suasson soborida",
+   "Parij soborida"
+  ],
+  "e": "Papa Karlga avliyo Pyotr ibodatxonasida imperatorlik tojini kiygizgan.",
+  "p": 19,
+  "src": "avliyo Pyotr ibodatxonasida imperatorlik tojini kiygizadi"
+ },
+ {
+  "q": "“Yangi Rim imperiyasi”ning markazi qaysi shahar bo‘lgan?",
+  "a": "Axen",
+  "w": [
+   "Parij",
+   "Rim",
+   "Suasson"
+  ],
+  "e": "Yangi Rim imperiyasining markazi Axen shahrida bo‘lgan.",
+  "p": 19,
+  "src": "uning markazi Axen shahrida bo‘lgan"
+ },
+ {
+  "q": "Karlga imperatorlik toji qachon kiygizilgan?",
+  "a": "800-yilning dekabrida",
+  "w": [
+   "751-yilning martida",
+   "843-yilning avgustida",
+   "987-yilning mayida"
+  ],
+  "e": "Papa 800-yilning dekabrida Rimga kelgan Karlga tojni kiygizgan.",
+  "p": 19,
+  "src": "800-yilning dekabrida Rimga kelgan Karlga"
+ },
+ {
+  "q": "Yirik qabilalarni Karl imperiyasida kimlar boshqargan?",
+  "a": "Gersoglar",
+  "w": [
+   "Graflar",
+   "Markgraflar",
+   "Abbatlar"
+  ],
+  "e": "Yirik qabilalarni gersoglar boshqargan.",
+  "p": 20,
+  "src": "Yirik qabilalarni gersoglar (nemischa,"
+ },
+ {
+  "q": "Yirik bo‘lmagan hududlarni Karl imperiyasida kimlar boshqargan?",
+  "a": "Imperator tayinlagan graflar",
+  "w": [
+   "Merosiy gersoglar",
+   "Rim papasi vakillari",
+   "Xalq yig‘ini saylagan oqsoqollar"
+  ],
+  "e": "Yirik bo‘lmagan hududlarni imperator tayinlagan graflar boshqargan.",
+  "p": 20,
+  "src": "hududlarni imperator tayinlagan graflar"
+ },
+ {
+  "q": "Karl chegaralarni mustahkamlash uchun nima tuzgan?",
+  "a": "Markalar",
+  "w": [
+   "Gersogliklar",
+   "Grafliklar",
+   "Monastirlar"
+  ],
+  "e": "Davlat chegarasini mustahkamlash maqsadida markalar (chegara viloyatlari) tuzilgan.",
+  "p": 20,
+  "src": "chegaralarini mustahkamlash maqsadida markalar"
+ },
+ {
+  "q": "Karl yiliga ikki marta kimlarning oliy kengashini o‘tkazgan?",
+  "a": "Dunyoviy va ilmiy zodagonlarning",
+  "w": [
+   "Faqat harbiylarning",
+   "Faqat dehqonlarning",
+   "Hunarmandlar va savdogarlarning"
+  ],
+  "e": "Imperator yiliga ikki marta dunyoviy va ilmiy zodagonlar oliy kengashini o‘tkazgan.",
+  "p": 20,
+  "src": "Imperator yiliga ikki marta – dunyoviy va ilmiy"
+ },
+ {
+  "q": "Graflarni nazorat qilish uchun Karl hududlarga kimlarni yuborgan?",
+  "a": "O‘zi ishongan kishilar – “hukmdor vakillari”ni",
+  "w": [
+   "Papaning elchilarini",
+   "Yepiskoplarning o‘g‘illarini",
+   "Gersoglarni"
+  ],
+  "e": "Karl graflarni nazorat qilish uchun hududlarga “hukmdor vakillari”ni yuborgan.",
+  "p": 20,
+  "src": "hududlariga o‘zi ishongan kishilar"
+ },
+ {
+  "q": "Imperiyaning markazlashgan boshqaruvi zaiflashishiga nima yo‘l ochgan?",
+  "a": "Graflarning yakkahokimlikka va merosiy lavozimga intilishi",
+  "w": [
+   "Dehqonlarning ommaviy ko‘tarilishlari",
+   "Yepiskoplar sonining ortib borishi",
+   "Savdo aloqalarining butunlay to‘xtashi"
+  ],
+  "e": "Graflar yakkahokimlikni o‘rnatishga intilgani sababli markazlashgan boshqaruv zaiflashgan.",
+  "p": 20,
+  "src": "Imperiya hududining behad yirik bo‘lishi uni muntazam"
+ },
+ {
+  "q": "Karlga qimmatbaho tuhfalar yuborgan va Iso payg‘ambar qabri joylashgan yerni ramziy taqdim etgan xalifa kim?",
+  "a": "Horun ar-Rashid",
+  "w": [
+   "Muoviya",
+   "Umar",
+   "Abdurahmon"
+  ],
+  "e": "Xalifa Horun ar-Rashid elchilari orqali Karlga tuhfalar yuborgan.",
+  "p": 20,
+  "src": "xalifa Horun ar-Rashid elchilari orqali Karlga"
+ },
+ {
+  "q": "Imperiya uchga bo‘lingan Verden shartnomasi qaysi yili tuzilgan?",
+  "a": "843-yili",
+  "w": [
+   "800-yili",
+   "751-yili",
+   "987-yili"
+  ],
+  "e": "Verden shartnomasi 843-yili Karlning nabiralari davrida tuzilgan.",
+  "p": 21,
+  "src": "Verden shahrida 843-yili tuzilgan shartnomaga muvofiq"
+ },
+ {
+  "q": "Verden shartnomasi asosida qaysi davlatlar tashkil topdi?",
+  "a": "Fransiya, Germaniya va Italiya",
+  "w": [
+   "Fransiya, Ispaniya va Angliya",
+   "Germaniya, Avstriya va Polsha",
+   "Italiya, Vizantiya va Fransiya"
+  ],
+  "e": "Imperiya uchga bo‘linib, Fransiya, Germaniya va Italiya davlatlari tashkil topgan.",
+  "p": 21,
+  "src": "Fransiya, Germaniya va Italiya davlatlari tashkil topadi"
+ },
+ {
+  "q": "Verden shartnomasidan so‘ng Karolinglar imperiyasining g‘arbiy qismida qaysi qirollik vujudga keldi?",
+  "a": "G‘arbiy Frank qirolligi",
+  "w": [
+   "Sharqiy Frank qirolligi",
+   "Langobard qirolligi",
+   "Vestgot qirolligi"
+  ],
+  "e": "G‘arbiy qism Karlning nabirasiga berilib, G‘arbiy Frank qirolligi vujudga kelgan.",
+  "p": 21,
+  "src": "G‘arbiy Frank qirolligi vujudga keladi"
+ },
+ {
+  "q": "“Fransiya” so‘zi qanday ma’noni anglatadi?",
+  "a": "Franklar mamlakati",
+  "w": [
+   "Rim-gallar yurti",
+   "Buyuk Karl o‘lkasi",
+   "Kapetinglar davlati"
+  ],
+  "e": "Hudud Galliya emas, Fransiya (“franklar mamlakati”) deb atala boshlangan.",
+  "p": 21,
+  "src": "Fransiya (“franklar mamlakati”) deb atala"
+ },
+ {
+  "q": "Gugo Kapet qaysi yili Fransiya qiroli deb e’lon qilindi?",
+  "a": "987-yili",
+  "w": [
+   "843-yili",
+   "751-yili",
+   "1108-yili"
+  ],
+  "e": "Karolinglarning so‘nggi vakili Lyudovik V vafot etgach, 987-yilda Gugo Kapet qirol bo‘lgan.",
+  "p": 21,
+  "src": "zodagonlar va ruhoniylar 987-yilda Robertinlar"
+ },
+ {
+  "q": "Gugo Kapet qaysi xonadondan bo‘lgan?",
+  "a": "Robertinlar",
+  "w": [
+   "Meroveylar",
+   "Karolinglar",
+   "Plantagenetlar"
+  ],
+  "e": "Gugo Kapet Robertinlar xonadonidan bo‘lgan graf edi.",
+  "p": 21,
+  "src": "Robertinlar xonadonidan bo‘lgan graf Gugo Kapetni"
+ },
+ {
+  "q": "Karolinglarning so‘nggi vakili kim edi?",
+  "a": "Lyudovik V",
+  "w": [
+   "Lyudovik VI",
+   "Pipin Pakana",
+   "Filipp II"
+  ],
+  "e": "Karolinglarning so‘nggi vakili Lyudovik V vafot etgach, sulola tugagan.",
+  "p": 21,
+  "src": "so‘nggi vakili Lyudovik V vafot etgach"
+ },
+ {
+  "q": "Kapetinglarning dastlabki davrida qirol faqat qaysi hududda hukmronlik qilardi?",
+  "a": "Il-de-Frans gersogligida",
+  "w": [
+   "Normandiya gersogligida",
+   "Akvitaniya gersogligida",
+   "Burgundiya gersogligida"
+  ],
+  "e": "Qirol o‘z domeni – Parij va Orlean shaharlarini o‘z ichiga olgan Il-de-Frans gersogligidagina hukmronlik qilardi.",
+  "p": 21,
+  "src": "Il-de-Frans gersogligidagina hukmronlik qilardi"
+ },
+ {
+  "q": "Quyidagilardan qaysi biri IX–X asrlarda Fransiyada mustaqil mulkka aylangan hududlarga kirmaydi?",
+  "a": "Il-de-Frans",
+  "w": [
+   "Normandiya",
+   "Burgundiya",
+   "Flandriya"
+  ],
+  "e": "Il-de-Frans qirolning o‘z domeni edi; Normandiya, Burgundiya, Flandriya esa mustaqil mulklar bo‘lgan.",
+  "p": 21,
+  "src": "Normandiya, Akvitaniya, Burgundiya gersogliklari"
+ },
+ {
+  "q": "X–XI asrlarda Fransiyada nima rivojlana boshladi?",
+  "a": "Qishloq xo‘jaligi, hunarmandchilik va savdo",
+  "w": [
+   "Dengiz floti va mustamlakalar",
+   "Faqat chorvachilik",
+   "Ritsarlik ordenlari"
+  ],
+  "e": "X–XI asrlarda qishloq xo‘jaligi, hunarmandchilik va savdo rivojlana boshlagan.",
+  "p": 21,
+  "src": "Fransiyada X–XI asrlarda qishloq xo‘jaligi, hunarmandchilik va savdo rivojlana"
+ },
+ {
+  "q": "Nima feodal tarqoqlikni tugatishni taqozo eta boshladi?",
+  "a": "Viloyatlar o‘rtasidagi iqtisodiy aloqalar ehtiyoji",
+  "w": [
+   "Arablarning tez-tez qilgan hujumlari",
+   "Cherkov nufuzining kuchayib borishi",
+   "Franklarning yangi yerlarga ko‘chishi"
+  ],
+  "e": "Viloyatlarni savdo-sotiq bog‘lab qo‘ygani sababli iqtisodiy aloqalar tarqoqlikni tugatishni taqozo etgan.",
+  "p": 21,
+  "src": "aloqalarni rivojlantirish ehtiyojlari feodal tarqoqlikni tugatishni taqozo"
+ },
+ {
+  "q": "Qirol Lyudovik VI qirollik yerida nimaga muvaffaq bo‘ldi?",
+  "a": "Baron qal’alarini bo‘ysundirishga",
+  "w": [
+   "Papani taxtdan tushirishga",
+   "Normandiyani bosib olishga",
+   "Arablarni quvishga"
+  ],
+  "e": "Lyudovik VI qirollik yerida turgan baron qal’alarini o‘ziga bo‘ysundirgan.",
+  "p": 21,
+  "src": "Qirol Lyudovik VI qirollik yerida turgan"
+ },
+ {
+  "q": "Lyudovik VII o‘z domenini qanday kengaytirdi?",
+  "a": "Akvitaniya merosxo‘ri Eleonoraga uylanib",
+  "w": [
+   "Normandiyani bosib olib",
+   "Burgundiyani sotib olib",
+   "Papadan yer olib"
+  ],
+  "e": "Lyudovik VII Akvitaniya gersogligi merosxo‘ri Eleonoraga uylanib domenini kengaytirgan.",
+  "p": 21,
+  "src": "Akvitaniya gersogligining merosxo‘ri – Eleonoraga uylanish orqali"
+ },
+ {
+  "q": "XIII asr boshlariga kelib Fransiyaning deyarli butun hududida qaysi qirolning hukmronligi o‘rnatildi?",
+  "a": "Filipp II",
+  "w": [
+   "Lyudovik VI",
+   "Gugo Kapet",
+   "Karl Martell"
+  ],
+  "e": "XIII asr boshlarida Filipp II hukmronligi o‘rnatilib, qirol hokimiyati mustahkamlangan.",
+  "p": 21,
+  "src": "Filipp II ning hukmronligi o‘rnatilib"
+ }
+]

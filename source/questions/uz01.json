@@ -1,0 +1,194 @@
+[
+ {
+  "q": "«O‘rta asrlar» tushunchasini tarix faniga kimlar olib kirgan?",
+  "a": "Italyan tarixchilari",
+  "w": [
+   "Fransuz tarixchilari",
+   "Arab olimlari",
+   "Rus sayyohlari"
+  ],
+  "e": "Bu tushuncha tarix faniga italyan tarixchilari tomonidan olib kirilgan.",
+  "p": 3,
+  "src": "tarix faniga italyan tarixchilari tomonidan olib kirilgan"
+ },
+ {
+  "q": "«O‘rta asrlar» tushunchasi nima bilan bevosita bog‘liq?",
+  "a": "Xususiy mulkchilik shakli o‘zgarishi davrlari bilan",
+  "w": [
+   "Shaharlar qurilishi bilan",
+   "Dinlarning tarqalishi bilan",
+   "Savdo yo‘llari ochilishi bilan"
+  ],
+  "e": "Bu tushuncha xususiy mulkchilik shakli o‘zgarishi davrlari bilan bevosita bog‘liq.",
+  "p": 3,
+  "src": "Bu tushuncha xususiy mulkchilik shakli o‘zgarishi davrlari bilan bevosita bog‘liq."
+ },
+ {
+  "q": "Nima uchun «o‘rta asrlar» tushunchasi bizning tariximizda shartli ishlatiladi?",
+  "a": "Sharqda yer-mulk munosabatlari jamoaviy bo‘lgan",
+  "w": [
+   "Sharqda shaharlar bo‘lmagan",
+   "Sharqda yozuv bo‘lmagan",
+   "Sharqda davlatlar bo‘lmagan"
+  ],
+  "e": "Sharq mamlakatlarida yer-mulk munosabatlari jamoaviy asoslarda rivojlangani uchun tushuncha shartli qo‘llanadi.",
+  "p": 3,
+  "src": "Sharq mamlakatlarida yer-mulk munosabatlari azaldan jamoaviy asoslarda rivojlanib kelgan."
+ },
+ {
+  "q": "Darslikda qaysi davr Vatanimizning o‘rta asrlar tarixi sifatida o‘rganiladi?",
+  "a": "IV asrdan XIII asr boshlarigacha",
+  "w": [
+   "I asrdan IV asrgacha",
+   "XIII asrdan XVI asrgacha",
+   "VIII asrdan XIX asrgacha"
+  ],
+  "e": "Darslik IV asrdan XIII asr boshlarigacha bo‘lgan tarixni o‘z ichiga oladi.",
+  "p": 3,
+  "src": "Siz ushbu darslikda IV asrdan XIII asr boshlarigacha bo‘lgan"
+ },
+ {
+  "q": "O‘zbek xalqining o‘tmishi kimlarning tarixi bilan chambarchas bog‘langan?",
+  "a": "Etnik jihatdan yaqin qardosh xalqlar tarixi bilan",
+  "w": [
+   "Faqat Yevropa xalqlari tarixi bilan",
+   "Faqat arab xalqlari tarixi bilan",
+   "Faqat qadimgi yunonlar tarixi bilan"
+  ],
+  "e": "O‘zbek xalqi tarixi etnik jihatdan yaqin qardosh xalqlar tarixi bilan uyg‘unlashib ketgan.",
+  "p": 3,
+  "src": "qardosh xalqlarning tarixi bilan chambarchas bog‘lanib"
+ },
+ {
+  "q": "Yevropada o‘rta asrlarning boshlanishi qaysi voqea bilan bog‘lanadi?",
+  "a": "Rim imperiyasining qulashi (476-yil)",
+  "w": [
+   "Arab xalifaligining tashkil topishi",
+   "Amir Temur davlatining tuzilishi",
+   "Buyuk Karlning imperator bo‘lishi"
+  ],
+  "e": "Yevropada o‘rta asrlar Rim imperiyasining 476-yilda qulashi bilan boshlangan.",
+  "p": 6,
+  "src": "ning qulashi (476-y.), V asr oxirlari voqealariga"
+ },
+ {
+  "q": "Bizning tariximizda o‘rta asrlar qaysi qabila uyushmalari siyosiy maydonda paydo bo‘lgan davrdan boshlangan?",
+  "a": "Kidariylar, xioniylar, eftaliylar",
+  "w": [
+   "Saklar, massagetlar, sug‘dlar",
+   "Kushonlar, parfiyaliklar, baqtriyaliklar",
+   "Somoniylar, qoraxoniylar, g‘aznaviylar"
+  ],
+  "e": "IV asr oxiri va V asr o‘rtalaridan kidariylar, xioniylar, eftaliylar kabi qabila uyushmalari paydo bo‘lgan.",
+  "p": 6,
+  "src": "xioniylar, eftaliylar kabi etnik atamalar ostida"
+ },
+ {
+  "q": "O‘rta asrlar qanday bosqichlarga bo‘linadi?",
+  "a": "Ilk, rivojlangan va so‘nggi o‘rta asrlarga",
+  "w": [
+   "Qadimgi, ilk va yangi davrga",
+   "Boshlang‘ich va yakuniy davrga",
+   "Arab, mo‘g‘ul va temuriylar davriga"
+  ],
+  "e": "O‘rta asrlar ilk, rivojlangan va so‘nggi o‘rta asrlarga bo‘linadi.",
+  "p": 6,
+  "src": "ilk, rivojlangan va so‘nggi o‘rta"
+ },
+ {
+  "q": "Ilk o‘rta asrlarda «qishloq hokimlari» deb atalgan katta yer egalari kimlar edi?",
+  "a": "Dehqonlar",
+  "w": [
+   "Kadivarlar",
+   "Kashovarzlar",
+   "Chokarlar"
+  ],
+  "e": "Katta yer egalari – dehqonlar «qishloq hokimlari» deb atalgan.",
+  "p": 6,
+  "src": "Ilk o‘rta asrlarda «qishloq hokimlari» deb atalgan katta yer"
+ },
+ {
+  "q": "Yerda ishlash tartiblarining tubdan o‘zgarishi aholi o‘rtasida nimani keskinlashtirdi?",
+  "a": "Tabaqalanishni",
+  "w": [
+   "Savdoni",
+   "Ko‘chmanchilikni",
+   "Shaharlar sonini"
+  ],
+  "e": "Yerda ishlash tartiblari o‘zgarishi aholi o‘rtasidagi tabaqalanishni yanada keskinlashtirgan.",
+  "p": 6,
+  "src": "aholi o‘rtasida tabaqalanishni yanada keskinlashtirgan."
+ },
+ {
+  "q": "VIII asr boshlariga kelib mamlakatimiz hududida kimning hukmronligi o‘rnatildi?",
+  "a": "Arab xalifaligining",
+  "w": [
+   "Turk xoqonligining",
+   "Xorazmshohlarning",
+   "Somoniylarning"
+  ],
+  "e": "VIII asr boshlarida mamlakatimizda arab xalifaligi hukmronligi o‘rnatilgan.",
+  "p": 6,
+  "src": "VIII asr boshlariga kelib mamlakatimiz hududida arab"
+ },
+ {
+  "q": "Quyidagilardan qaysi biri yurtimizda yetishib chiqqan va jahon ilm-fani taraqqiyotiga hissa qo‘shgan mutafakkir?",
+  "a": "Ahmad Farg‘oniy",
+  "w": [
+   "Aristotel",
+   "Ibn Rushd",
+   "Ptolemey"
+  ],
+  "e": "Darslikda Xorazmiy, Farg‘oniy, Beruniy, Ibn Sino yurtimizdan yetishgan mutafakkirlar sifatida keltirilgan.",
+  "p": 6,
+  "src": "Xorazmiy, Ahmad Farg‘oniy,"
+ },
+ {
+  "q": "Qadimdan «Turon» deb atalgan yurtimiz arablar davridan qanday nomlarda atalgan?",
+  "a": "«Movarounnahr» va «Xuroson»",
+  "w": [
+   "«Turkiston» va «Sug‘diyona»",
+   "«Xorazm» va «Toxariston»",
+   "«O‘rta Osiyo» va «Markaziy Osiyo»"
+  ],
+  "e": "Arablar davridan Turon «Movarounnahr» va «Xuroson» deb atalgan.",
+  "p": 6,
+  "src": "«Movarounnahr» va «Xuroson» deb"
+ },
+ {
+  "q": "«O‘rta Osiyo» yoki «Markaziy Osiyo» nomlarini kimlar qo‘llagan?",
+  "a": "XVIII–XIX asr g‘arb olimlari va sayyohlari",
+  "w": [
+   "Arab sayyohlari",
+   "Qadimgi yunon tarixchilari",
+   "Sharq shoirlari"
+  ],
+  "e": "Yurtimiz XVIII–XIX asr g‘arb olimlari va sayyohlari tomonidan «O‘rta Osiyo» yoki «Markaziy Osiyo» deb nomlangan.",
+  "p": 6,
+  "src": "XIX asr g‘arb olimlari va sayyohlari"
+ },
+ {
+  "q": "IX–XII asrlarda zaminimizda tug‘ilib voyaga yetgan mashhur ulamolardan biri kim?",
+  "a": "Najmiddin Kubro",
+  "w": [
+   "Ibn Rushd",
+   "Farididdin Attor",
+   "Rabboniy"
+  ],
+  "e": "Najmiddin Kubro IX–XII asrlarda yetishgan mashhur ulamolar qatoridadir.",
+  "p": 7,
+  "src": "Najmiddin Kubro singari mashhur"
+ },
+ {
+  "q": "Komillikka erishish uchun nima zarur?",
+  "a": "Ilm va ma’rifatni egallash",
+  "w": [
+   "Boylik to‘plash va yig‘ish",
+   "Harbiy kuchga ega bo‘lish",
+   "Ko‘p sayohat qilish"
+  ],
+  "e": "Ilm va ma’rifatni egallash orqaligina komillikka erishish mumkin.",
+  "p": 7,
+  "src": "orqaligina komillikka erishish mumkinligini"
+ }
+]

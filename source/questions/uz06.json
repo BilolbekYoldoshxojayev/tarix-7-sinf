@@ -1,0 +1,434 @@
+[
+ {
+  "q": "Turk xoqonligi qaysi asr o‘rtalarida vujudga keldi?",
+  "a": "VI asr o‘rtalarida",
+  "w": [
+   "IV asr o‘rtalarida",
+   "V asr o‘rtalarida",
+   "VII asr o‘rtalarida"
+  ],
+  "e": "VI asr o‘rtalarida Oltoy va Janubiy Sibirda yashagan turkiy qabilalarni birlashtirgan yangi davlat – Turk xoqonligi vujudga kelgan.",
+  "p": 24,
+  "src": "VI asr o‘rtalarida Oltoy va Janubiy Sibirda yashagan turkiy qabilalarni birlashtirgan yangi davlat vujudga keldi"
+ },
+ {
+  "q": "Turk xoqonligining asoschisi kim?",
+  "a": "Bumin",
+  "w": [
+   "Istami",
+   "Eftalon",
+   "Afrig‘"
+  ],
+  "e": "Turk xoqonligining asoschisi Bumin bo‘lgan.",
+  "p": 24,
+  "src": "Uning asoschisi Bumin edi"
+ },
+ {
+  "q": "Turk xoqonligining markazi qayerda belgilangan?",
+  "a": "Oltoyda",
+  "w": [
+   "Xorazmda",
+   "Farg‘ona vodiysida",
+   "Sirdaryo bo‘ylarida"
+  ],
+  "e": "Yettisuv va Sharqiy Turkistonga tutashgan yurtlar bo‘ysundirilib, Oltoy xoqonlikning markazi qilib belgilangan.",
+  "p": 24,
+  "src": "Oltoy xoqonlikning markazi qilib belgilanadi"
+ },
+ {
+  "q": "Sosoniylar eftaliylardan qaysi janubiy o‘lkalarni tortib olgan?",
+  "a": "Toxariston va Chag‘oniyonni",
+  "w": [
+   "Xorazm va Sug‘diyonani",
+   "Choch va Farg‘onani",
+   "Buxoro va Naxshabni"
+  ],
+  "e": "Eftaliylar shimolda xoqonlikdan mudofaalanayotganda sosoniylar Toxariston va Chag‘oniyonni tortib olgan.",
+  "p": 24,
+  "src": "sosoniylar janubiy o‘lkalar – Toxariston va Chag‘oniyonni ulardan tortib oladilar"
+ },
+ {
+  "q": "Eftaliylar davlati parchalangach, Amudaryoning janubiy qirg‘oqlarigacha bo‘lgan viloyatlar kimga o‘tgan?",
+  "a": "Eronga",
+  "w": [
+   "Turk xoqonligiga",
+   "Vizantiyaga",
+   "Xitoyga"
+  ],
+  "e": "Janubiy viloyatlar Eronga, Amudaryoning o‘ng sohillari bo‘ylab Kaspiygacha yerlar Turk xoqonligiga o‘tgan.",
+  "p": 24,
+  "src": "Amu daryoning janubiy qir g‘oqlarigacha bo‘l gan viloyatlar Eron"
+ },
+ {
+  "q": "«Turk» so‘zi qanday ma’nolarni anglatadi?",
+  "a": "Baquvvat, barkamol, odillik",
+  "w": [
+   "Jasur, kamtar, tejamkor",
+   "Ko‘chmanchi, chorvador, jangchi",
+   "Ozod, mustaqil, boy"
+  ],
+  "e": "Turk so‘zi baquvvat, barkamol, odillik kabi ma’nolarni anglatadi.",
+  "p": 24,
+  "src": "Turk so‘zi baquvvat, barkamol, odillik kabi ma’nolarni anglatadi"
+ },
+ {
+  "q": "Turk xoqonligi VI asrning 80-yillari oxirlarida qanday o‘zgarishga uchragan?",
+  "a": "Sharqiy va G‘arbiy turk xoqonliklariga bo‘linib ketgan",
+  "w": [
+   "Eftaliylar davlati bilan birlashgan",
+   "Sosoniylar tomonidan butunlay bosib olingan",
+   "Uch mustaqil davlatga bo‘linib ketgan"
+  ],
+  "e": "Xoqonlik zaiflashib, VI asr 80-yillari oxirida ikkiga bo‘linib ketgan.",
+  "p": 25,
+  "src": "Turk xoqonligi VI asrning 80- yillari oxirlarida ikkiga: Sharqiy turk xoqonligi va G‘arbiy turk xoqonligiga bo‘linib ketadi"
+ },
+ {
+  "q": "Quyidagilardan qaysi biri Turk xoqonligining mustahkam markazlashgan davlatga aylanishiga to‘sqinlik qilgan?",
+  "a": "Qabilalar va hokimlarning bo‘ysunmaslikka intilishi",
+  "w": [
+   "Xoqonlikda yozma qonunlarning umuman bo‘lmagani",
+   "Aholi sonining juda kamligi va yerlarning bo‘shligi",
+   "Savdo yo‘llarining butunlay yopilib qolgani"
+  ],
+  "e": "Katta qabilalar va hokimlar mustaqil bo‘lishni istaganligi sababli xoqonlik markazlashgan davlatga aylana olmagan.",
+  "p": 25,
+  "src": "tifoqi markaziy hokimiyatga bo‘ysunmaslikka intilgan"
+ },
+ {
+  "q": "Xoqonlikni tobora zaiflashtirgan boshqaruv tartibi qanday edi?",
+  "a": "Bo‘ysundirilgan hududlarni mahalliy hokimlar orqali boshqarish",
+  "w": [
+   "Barcha hududlarni xoqonning o‘zi boshqarishi",
+   "Hududlarni sosoniy noiblariga topshirish",
+   "Hududlarni faqat harbiy qo‘mondonlar boshqarishi"
+  ],
+  "e": "Mahalliy hokimlar orqali boshqaruv xoqonlikni zaiflashtirgan.",
+  "p": 25,
+  "src": "Bo‘ysundirilgan hududlarni mahalliy hokimlar orqali bosh qaruv tartibi xoqonlikni tobora zaiflashtirgan"
+ },
+ {
+  "q": "Turk xoqonligi qaysi davlatlar bilan doimiy raqobatda bo‘lgan?",
+  "a": "Vizantiya, Xitoy va Eron bilan",
+  "w": [
+   "Rim, Hindiston va Misr bilan",
+   "Arabiston, Tibet va Yaponiya bilan",
+   "Rus, Xazar va Bolgar bilan"
+  ],
+  "e": "Vizantiya, Xitoy va Eron bilan doimiy raqobat xoqonlik ahvolini og‘irlashtirgan.",
+  "p": 25,
+  "src": "Vizantiya, Xitoy va Eron bilan doimiy raqobat xoqonlik ahvolini yanada og‘irlashtirgan"
+ },
+ {
+  "q": "Turk xoqonligida davlat mafkurasiga ko‘ra, davlat nima deb atalgan?",
+  "a": "«El»",
+  "w": [
+   "«Budun»",
+   "«Yabg‘u»",
+   "«Tuman»"
+  ],
+  "e": "Xoqonlik o‘z davlat mafkurasiga ko‘ra «el» deb atalgan.",
+  "p": 25,
+  "src": "Xoqonlik o‘z davlat mafkurasiga ko‘ra, «el» deb atalib"
+ },
+ {
+  "q": "Turkiylar siyosiy hokimiyatni Tangri tomonidan qaysi xonadonga in’om etilgan deb hisoblagan?",
+  "a": "Ashina xonadoniga",
+  "w": [
+   "Afrig‘iylar xonadoniga",
+   "Eftalon xonadoniga",
+   "Sosoniylar xonadoniga"
+  ],
+  "e": "Xoqon Bumin mansub bo‘lgan Ashina xonadoni hokimiyati ilohiylashtirilgan.",
+  "p": 25,
+  "src": "Qadimgi turk jamiyati xoqon Bumin mansub bo‘lgan Ashina xonadoni vakillariga hukmdor sifatida qaraganlar"
+ },
+ {
+  "q": "Qadimgi turklar qanday hukmdor hokimiyatdan uzoqlashtirilgan deb tushunganlar?",
+  "a": "Tangri bergan hokimiyatni oqlamagan hukmdor",
+  "w": [
+   "Soliqni to‘liq yig‘a olmagan hukmdor",
+   "Chet davlatlarga elchi yubormagan hukmdor",
+   "Ibodatxona qurmagan hukmdor"
+  ],
+  "e": "Tangri bergan hokimiyatni oqlamagan hukmdordan hokimiyat Tangri tomonidan qaytarib olinadi, deb tushunilgan.",
+  "p": 25,
+  "src": "yana Tangri tomonidan qaytarib olinadi"
+ },
+ {
+  "q": "Turk xoqonligi asosini qanday ittifoq tashkil etgan?",
+  "a": "Turkiy tilda so‘zlashuvchi qabilalar ittifoqi",
+  "w": [
+   "Sug‘diy shaharlar ittifoqi",
+   "Zardushtiy ruhoniylar ittifoqi",
+   "Savdogarlar jamoalari ittifoqi"
+  ],
+  "e": "Turkiy tilda so‘zlashuvchi qabilalar ittifoqi xoqonlik asosini tashkil etgan va uni xoqon boshqargan.",
+  "p": 26,
+  "src": "Turkiy tilda so‘zlashuvchi qabilalar ittifoqi xoqonlik asosini tashkil etar edi"
+ },
+ {
+  "q": "Turk xoqonligida o‘n ming suvoriyga ega bo‘lgan tuman boshi qanday atalgan?",
+  "a": "Shod",
+  "w": [
+   "Budun",
+   "Yabg‘u",
+   "Xoqon"
+  ],
+  "e": "O‘n ming suvoriyga ega bo‘lgan tuman boshi «shod» deb yuritilgan.",
+  "p": 26,
+  "src": "O‘n ming suvoriyga ega bo‘lgan tuman boshi «shod» deb yuritilgan"
+ },
+ {
+  "q": "Ko‘chmanchi chorvador aholi Turk xoqonligida qanday nomlar bilan yuritilgan?",
+  "a": "«Budun» yoki «qora budun»",
+  "w": [
+   "«Shod» yoki «tuman»",
+   "«Yabg‘u» yoki «jabg‘u»",
+   "«El» yoki «mangu el»"
+  ],
+  "e": "Ko‘chmanchi chorvador aholi «budun» yoki «qora budun» nomlari bilan yuritilgan.",
+  "p": 26,
+  "src": "Ko‘chmanchi chorvador aholi «budun» yoki «qora budun» nomlari bilan yuritilgan"
+ },
+ {
+  "q": "Turk xoqonligi eng kuchaygan davrda qaysi hududlarni egallagan?",
+  "a": "Oxota dengizidan Qrim yarimoroligacha, Sibirdan Hindistongacha",
+  "w": [
+   "Kaspiy dengizidan Orol dengizigacha, Sirdaryodan Amudaryogacha",
+   "Yettisuvdan Farg‘onagacha, Toshkentdan Samarqandgacha",
+   "Qora dengizdan Hind okeanigacha, Afrikadan Arabistongacha"
+  ],
+  "e": "Xoqonlik eng kuchaygan davrda Oxota dengizidan Qrim yarimoroligacha, Sibirdan Hindistongacha hududni egallagan.",
+  "p": 27,
+  "src": "Oxota dengizidan Qrim yarimoroligacha, Sibirdan Hindistongacha hududni egallagan"
+ },
+ {
+  "q": "Yabg‘u darajasiga kimlar ko‘tarilgan?",
+  "a": "Faqat xoqon urug‘iga qon-qarindosh bo‘lganlar",
+  "w": [
+   "Eng boy savdogarlar",
+   "Eng mohir jangchilar",
+   "Mahalliy hokimlarning har biri"
+  ],
+  "e": "Yabg‘u darajasiga faqat xoqon urug‘iga qon-qarindosh bo‘lganlargina ko‘tarilgan.",
+  "p": 27,
+  "src": "faqat xoqon urug‘iga qon-qarindosh bo‘lganlargina ko‘tarilgan"
+ },
+ {
+  "q": "O‘n o‘q budun yoki elning hokimi qanday atalgan?",
+  "a": "Yabg‘u yoki jabg‘u",
+  "w": [
+   "Shod",
+   "Tuman boshi",
+   "Qora budun"
+  ],
+  "e": "O‘n o‘q budun yoki elning hokimi «yabg‘u» yoki «jabg‘u» nomi bilan atalgan.",
+  "p": 27,
+  "src": "O‘n o‘q budun yoki elning hokimi «yabg‘u» yoki «jabg‘u» nomi bilan atalardi"
+ },
+ {
+  "q": "Turk xoqonligida hokimiyat qanday boshqaruvga asoslangan edi?",
+  "a": "Urug‘-aymoqchilik udumlariga tayangan harbiy-ma’muriy boshqaruvga",
+  "w": [
+   "Faqat diniy ruhoniylar kengashi tayinlagan boshqaruvga",
+   "Aholi saylagan hokimlarga tayangan boshqaruvga",
+   "Shaharlarning o‘zini o‘zi boshqarishiga asoslangan tizimga"
+  ],
+  "e": "Hokimiyat urug‘-aymoqchilik udumlariga tayangan harbiy-ma’muriy boshqaruvga asoslangan.",
+  "p": 27,
+  "src": "tayangan harbiy-ma’muriy bosh qaruvga asoslangan"
+ },
+ {
+  "q": "Turk xoqonligida Samarqandda amalda bo‘lgan yozma qonunchilik hujjati qanday nomlangan va qayerda saqlangan?",
+  "a": "«Turk qonunnomasi», ibodatxonada",
+  "w": [
+   "«Turk bitigi», saroyda",
+   "«Avesto», ibodatxonada",
+   "«Turk qonunnomasi», xazinada"
+  ],
+  "e": "Samarqandda «Turk qonunnomasi» amalda bo‘lib, ibodatxonada saqlangan va jazo berishda foydalanilgan.",
+  "p": 28,
+  "src": "Shu davrda Samarqandda «Turk qonunnomasi» amalda bo‘lib, u ibodatxonada saqlangan"
+ },
+ {
+  "q": "Qadimgi Sug‘dda oldi-sotdi va nikohni qayd etishga oid shartnomalar qanday tasdiqlangan?",
+  "a": "Yozma tuzilib, muhr bilan",
+  "w": [
+   "Og‘zaki kelishuv bilan",
+   "Ruhoniy duosi bilan",
+   "Xoqon farmoni bilan"
+  ],
+  "e": "Shartnomalar guvohlar o‘rtasida yozma tuzilib, muhr bilan tasdiqlangan.",
+  "p": 28,
+  "src": "tuzilib, muhr bilan tasdiqlangan"
+ },
+ {
+  "q": "Qorg‘ontepa yaqinidagi Ajinatepadan topilgan buddaning haykali qanday balandlikda?",
+  "a": "12 metr",
+  "w": [
+   "5 metr",
+   "25 metr",
+   "17 metr"
+  ],
+  "e": "Ajinatepa buddasi haykalining bo‘yi 12 metrga boradi.",
+  "p": 28,
+  "src": "buddasi hay kalining bo‘yi 12 metrga boradi"
+ },
+ {
+  "q": "Ajinatepa buddasi haykali hozirgi kunda qayerda saqlanadi?",
+  "a": "Dushanbe shahridagi Milliy arxeologiya muzeyida",
+  "w": [
+   "Toshkent shahridagi Tarix muzeyida",
+   "Samarqanddagi Afrosiyob muzeyida",
+   "Termiz arxeologiya muzeyida"
+  ],
+  "e": "Haykal hozir Dushanbe shahridagi Milliy arxeologiya muzeyida saqlanadi.",
+  "p": 28,
+  "src": "Dushanbe shahridagi Milliy arxeologiya muzeyida saqlanadi"
+ },
+ {
+  "q": "Qadimda turkiylar qaysi hayvonni ilohiylashtirgan?",
+  "a": "Bo‘rini",
+  "w": [
+   "Burgutni",
+   "Otni",
+   "Qoplonni"
+  ],
+  "e": "Turkiylarda qadimda bo‘ri ilohiylashtirilgan va ko‘plab nishonlarida bo‘ri tasviri bo‘lgan.",
+  "p": 29,
+  "src": "Turkiylarda qadimda bo‘ri ilohiylashtirilgan"
+ },
+ {
+  "q": "Olamning ibtidosi yorug‘lik, ezgulik hamda zulmat va yovuzlikdan iborat, deb hisoblagan e’tiqod qaysi?",
+  "a": "Moniylik",
+  "w": [
+   "Buddaviylik",
+   "Tangrichilik",
+   "Shomonlik"
+  ],
+  "e": "Moniylikka ko‘ra olamning ibtidosi ikki qarama-qarshi yaratuvchidan iborat.",
+  "p": 29,
+  "src": "Olamning ibtidosi ikki qarama-qarshi yaratuvchi – yorug‘lik va ezgulik ham da zulmat va yovuzlikdan iborat"
+ },
+ {
+  "q": "Qadimgi turklar o‘z dinini nima deb yuritgan, chunki ularda «shomon» so‘zi bo‘lmagan?",
+  "a": "«Qam»",
+  "w": [
+   "«Tangri»",
+   "«Adji»",
+   "«Budun»"
+  ],
+  "e": "Qadimgi turklarda «shomon» so‘zi bo‘lmagani sababli o‘z dinini «qam» deb yuritganlar.",
+  "p": 29,
+  "src": "Qadimgi turklarda «shomon» so‘zi bo‘lmagani sababli o‘z dinini «qam» deb yuritganlar"
+ },
+ {
+  "q": "Qaysi bitiklarda Tangri yagona, azaliy, abadiy, yaratuvchi kabi sifatlar bilan maqtalgan?",
+  "a": "Urxun-Yenisey yodgorliklari bitiklarida",
+  "w": [
+   "Avesto kitobida",
+   "Shohnoma asarida",
+   "Zardushtiylik ibodatxonalari yozuvlarida"
+  ],
+  "e": "Urxun-Yenisey yodgorliklari bitiklarida Tangri yagona, azaliy, abadiy kabi sifatlar bilan ta’riflangan.",
+  "p": 29,
+  "src": "Urxun-Yenisey yodgorliklari bitiklarida Tangri yagona, azaliy, abadiy"
+ },
+ {
+  "q": "Tangrichilik ta’limotiga ko‘ra, Tangri nima hisoblangan?",
+  "a": "Moviy Osmon, buyuk Osmon sohibi",
+  "w": [
+   "Yer-suv ruhi",
+   "Olov va yorug‘lik ilohi",
+   "Ota-bobolar ruhi"
+  ],
+  "e": "Tangri – moviy Osmon, buyuk Osmon sohibi; uning doimiy makoni osmondir.",
+  "p": 30,
+  "src": "Tangri – bu moviy Os mon, buyuk Os mon sohibi"
+ },
+ {
+  "q": "Nima sababdan ko‘k rang turkiylar uchun ilohiy buyuklik ramzi hisoblangan?",
+  "a": "Tangrining doimiy makoni osmon bo‘lgani uchun",
+  "w": [
+   "Ko‘k rang suvni anglatgani uchun",
+   "Xoqonlik bayrog‘i ko‘k bo‘lgani uchun",
+   "Ko‘k rangli bo‘yoq qimmat bo‘lgani uchun"
+  ],
+  "e": "Tangrining doimiy makoni osmon bo‘lgani sababli ko‘k rang ilohiy buyuklik ramzi hisoblangan.",
+  "p": 30,
+  "src": "Shu sabab ko‘k rang ilohiy buyuklik ramzi hisoblangan"
+ },
+ {
+  "q": "Turk xoqonligining mafkuraviy asosi nima bo‘lgan?",
+  "a": "Shomonlik – ajdodlarga, Osmonga va yer-suvga sig‘inish",
+  "w": [
+   "Zardushtiylik – olovga sig‘inish",
+   "Buddaviylik – nirvanaga intilish",
+   "Nasroniylik – yagona Xudoga ishonish"
+  ],
+  "e": "Xoqonlikning mafkuraviy asosi shomonlik, ya’ni ajdodlarga, Osmonga (Tangri) va yer-suvga sig‘inish bo‘lgan.",
+  "p": 30,
+  "src": "kuraviy asosi shomonlik – ajdodlarga, Osmonga (Tangri) va yer-suvga sig‘inish bo‘lgan"
+ },
+ {
+  "q": "Turkiylar nima uchun jasadni kiyim-kechagi va kundalik ashyolari bilan birga dafn etgan?",
+  "a": "O‘limni bir hayotdan ikkinchi hayotga o‘tish deb bilganlari uchun",
+  "w": [
+   "O‘limni abadiy yo‘qolish deb bilganlari uchun",
+   "Marhumni qo‘shni davlatga yuborish uchun",
+   "Yovuz ruhlarni quvish uchun"
+  ],
+  "e": "Turkiylar o‘limni bir hayotdan ikkinchisiga o‘tish deb bilganlari uchun jasadni zarur ashyolari bilan dafn etgan.",
+  "p": 30,
+  "src": "Ular o‘limni bir hayotdan ikkinchi hayotga o‘tish, deb ishonganliklari uchun jasad kiyim-kechagi"
+ },
+ {
+  "q": "Turkiylar diniy marosimlarni to‘la ado etmagan kishi qayerdan joy oladi, deb ishonganlar?",
+  "a": "Yovuz ruhlar qatoridan",
+  "w": [
+   "Ajdodlar ruhlari qatoridan",
+   "Xoqon yaqinlari qatoridan",
+   "Tangri farzandlari qatoridan"
+  ],
+  "e": "Marosimlarni ado etmaganlar yovuz ruhlar qatoridan joy oladi, deb qattiq ishonilgan.",
+  "p": 30,
+  "src": "aks holda, ular yovuz ruhlar qatoridan joy oladi"
+ },
+ {
+  "q": "Tangrichilikda diniy ramz hisoblangan belgi qaysi?",
+  "a": "To‘rt tomoni teng salb – «adji»",
+  "w": [
+   "Olti qirrali yulduz",
+   "Uch tishli nayza",
+   "Halqa ichidagi bo‘ri tasviri"
+  ],
+  "e": "Tangrichilikda diniy ramz to‘rt tomoni teng bo‘lgan salb – «adji» hisoblangan.",
+  "p": 30,
+  "src": "ramz to‘rt to moni teng bo‘lgan salb – «adji» hisob langan"
+ },
+ {
+  "q": "Qovunchi davri qabristonlarining qabr xonalari qanday bo‘lgan?",
+  "a": "Gumbazli, keng, yer sathidan ancha chuqurda",
+  "w": [
+   "Yer sathida qurilgan kichik g‘ishtin xonalar",
+   "Tosh devor bilan o‘ralgan yog‘och uylar",
+   "Daryo bo‘yidagi tabiiy g‘orlar"
+  ],
+  "e": "Qovunchi davri qabristonlari katakombalardan iborat bo‘lib, qabr xonalari gumbazli, keng va chuqur joylashgan.",
+  "p": 30,
+  "src": "qabr xonalari (kameralari) ham gumbazli, keng va yer sathidan ancha chuqurlikda joylashgan"
+ },
+ {
+  "q": "Ajdodlar ruhiga sig‘inish turkiylarda qanday an’anani shakllantirgan?",
+  "a": "O‘zidan oldingi yetti ota-bobosi faoliyatini yaxshi bilish an’anasini",
+  "w": [
+   "Har yili ota-bobolar qabrini ko‘chirish an’anasini",
+   "Faqat xoqon nasabini yodlash an’anasini",
+   "Har bir ota-bobo uchun alohida ibodatxona qurish an’anasini"
+  ],
+  "e": "Ajdodlar ruhiga sig‘inish yetti ota-bobo faoliyatini yaxshi bilish an’anasini shakllantirgan.",
+  "p": 30,
+  "src": "o‘zidan oldingi yetti ota-bobosi faoliyatini yaxshi bilish an’anasini shakllantirgan"
+ }
+]

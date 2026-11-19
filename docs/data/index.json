@@ -1,0 +1,192 @@
+{
+ "books": {
+  "uz": {
+   "title": "O‘zbekiston tarixi"
+  },
+  "jh": {
+   "title": "Jahon tarixi"
+  }
+ },
+ "topics": [
+  {
+   "id": "uz01",
+   "book": "uz",
+   "title": "Ajdodlarimizning ma’naviy qadriyatlari – jahon sivilizatsiyasi asoslaridan biri",
+   "pages": [
+    3,
+    7
+   ],
+   "count": 16
+  },
+  {
+   "id": "uz02",
+   "book": "uz",
+   "title": "IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi",
+   "pages": [
+    8,
+    9
+   ],
+   "count": 11
+  },
+  {
+   "id": "uz03",
+   "book": "uz",
+   "title": "IV–VII asrlarda Xorazm",
+   "pages": [
+    10,
+    14
+   ],
+   "count": 31
+  },
+  {
+   "id": "uz04",
+   "book": "uz",
+   "title": "IV–V asrlarda xioniylar va kidariylar",
+   "pages": [
+    15,
+    17
+   ],
+   "count": 20
+  },
+  {
+   "id": "uz05",
+   "book": "uz",
+   "title": "Eftaliylar",
+   "pages": [
+    18,
+    23
+   ],
+   "count": 41
+  },
+  {
+   "id": "uz06",
+   "book": "uz",
+   "title": "Turk xoqonligi",
+   "pages": [
+    24,
+    31
+   ],
+   "count": 36
+  },
+  {
+   "id": "uz07",
+   "book": "uz",
+   "title": "G‘arbiy Turk xoqonligi",
+   "pages": [
+    32,
+    38
+   ],
+   "count": 45
+  },
+  {
+   "id": "uz08",
+   "book": "uz",
+   "title": "Mahalliy hokimliklarning tashkil topishi",
+   "pages": [
+    39,
+    47
+   ],
+   "count": 46
+  },
+  {
+   "id": "uz09",
+   "book": "uz",
+   "title": "Turon xalqlarining harbiy san’ati",
+   "pages": [
+    48,
+    53
+   ],
+   "count": 46
+  },
+  {
+   "id": "uz10",
+   "book": "uz",
+   "title": "VI–VII asrlarda Turon xalqlari madaniy hayoti",
+   "pages": [
+    54,
+    61
+   ],
+   "count": 32
+  },
+  {
+   "id": "jh01",
+   "book": "jh",
+   "title": "German qabilalari va Rim imperiyasi",
+   "pages": [
+    6,
+    11
+   ],
+   "count": 47
+  },
+  {
+   "id": "jh02",
+   "book": "jh",
+   "title": "Franklar davlati: qirollikdan imperiya sari",
+   "pages": [
+    12,
+    21
+   ],
+   "count": 70
+  },
+  {
+   "id": "jh03",
+   "book": "jh",
+   "title": "Britaniyadan – Angliyaga",
+   "pages": [
+    22,
+    29
+   ],
+   "count": 49
+  },
+  {
+   "id": "jh04",
+   "book": "jh",
+   "title": "Muqaddas Rim imperiyasi",
+   "pages": [
+    30,
+    35
+   ],
+   "count": 47
+  },
+  {
+   "id": "jh05",
+   "book": "jh",
+   "title": "Vizantiya: G‘arb va Sharq orasida",
+   "pages": [
+    36,
+    41
+   ],
+   "count": 34
+  },
+  {
+   "id": "jh06",
+   "book": "jh",
+   "title": "Slavyan davlatlarining tashkil topishi",
+   "pages": [
+    42,
+    49
+   ],
+   "count": 44
+  },
+  {
+   "id": "jh07",
+   "book": "jh",
+   "title": "Yangi din beshigi",
+   "pages": [
+    50,
+    55
+   ],
+   "count": 46
+  },
+  {
+   "id": "jh08",
+   "book": "jh",
+   "title": "Arab xalifaligi: islom dunyosining barpo etilishi",
+   "pages": [
+    56,
+    61
+   ],
+   "count": 39
+  }
+ ]
+}

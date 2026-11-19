@@ -1,0 +1,242 @@
+[
+ {
+  "q": "IV asrda turkiy qabilalardan xioniylar janubga yurib, qaysi podsholik hududida hukmronlik qilishgan?",
+  "a": "Kushon podsholigi",
+  "w": [
+   "Ahamoniylar davlati",
+   "Yunon-Baqtriya podsholigi",
+   "Sosoniylar davlati"
+  ],
+  "e": "Xioniylar janub tomonga yurib, Kushon podsholigi hududida hukmronlik qilgan.",
+  "p": 15,
+  "src": "janub tomonga yurib, Kushon podsholigi"
+ },
+ {
+  "q": "Xioniylar tuzgan davlatning markazi qaysi hudud bo‘lgan?",
+  "a": "Toxariston",
+  "w": [
+   "Xorazm",
+   "Farg‘ona",
+   "Choch"
+  ],
+  "e": "Davlat markazi Toxariston bo‘lgan.",
+  "p": 15,
+  "src": "Ular markazi Toxariston bo‘lgan Shimoliy Hindiston,"
+ },
+ {
+  "q": "Xioniylarning asli vatanini ayrim tadqiqotchilar qayerda deb hisoblaydilar?",
+  "a": "Orol dengizi bo‘yida",
+  "w": [
+   "Kaspiy dengizi bo‘yida",
+   "Sharqiy Turkistonda",
+   "Gandhara hududida"
+  ],
+  "e": "Ayrim tadqiqotchilar xioniylar vatanini Orol dengizi bo‘yida deb hisoblaydi.",
+  "p": 15,
+  "src": "Orol dengizi bo‘yida deb hisoblaydilar"
+ },
+ {
+  "q": "G‘arb tarixchilari xioniylarni qanday atashadi?",
+  "a": "«Oq xunnlar»",
+  "w": [
+   "«Qora xunnlar»",
+   "«Oq kidariylar»",
+   "«Sharqiy kushonlar»"
+  ],
+  "e": "G‘arb tarixchilari xioniylarni xunnlarga qarindosh deb, «oq xunnlar» deb atashadi.",
+  "p": 15,
+  "src": "ularni «oq xunnlar» deb atay"
+ },
+ {
+  "q": "Xioniylar Toxariston hududida necha yildan ortiq hukmronlik qilgan?",
+  "a": "120 yildan ortiq",
+  "w": [
+   "50 yildan ortiq",
+   "75 yildan ortiq",
+   "200 yildan ortiq"
+  ],
+  "e": "Xioniylar bu hududda 120 yildan ortiq hukmronlik qilgan.",
+  "p": 15,
+  "src": "Ular bu hududda 120 yildan ortiq"
+ },
+ {
+  "q": "V asrning 20-yillarida Xorazm va Amudaryo havzasiga sharqdan qaysi aholi kirib keldi?",
+  "a": "Toxarlar",
+  "w": [
+   "Xioniylar",
+   "Eftaliylar",
+   "Sosoniylar"
+  ],
+  "e": "V asr 20-yillarida Sirdaryo va Orol bo‘yi orqali ko‘chmanchi chorvador toxarlar kirib kelgan.",
+  "p": 16,
+  "src": "yana bir ko‘chmanchi chorvador aholi – toxarlar kirib kelgan."
+ },
+ {
+  "q": "Toxariylar kimlarning avlodlari bo‘lgan?",
+  "a": "Kushonlarning",
+  "w": [
+   "Xioniylarning",
+   "Sosoniylarning",
+   "Eftaliylarning"
+  ],
+  "e": "Toxariylar kushonlarning avlodlari bo‘lgan.",
+  "p": 16,
+  "src": "Toxariylar kushonlarning avlodlari bo‘lgan."
+ },
+ {
+  "q": "Kidariylar nima uchun shunday atalgan?",
+  "a": "Ularga Kidar ismli hukmdor boshchilik qilgani uchun",
+  "w": [
+   "Kidar daryosi bo‘yida yashagani uchun",
+   "Kidar shahrini qurib, shunday atagani uchun",
+   "Kidar nomli xudoga sig‘ingani uchun"
+  ],
+  "e": "Toxariylarga Kidar ismli hukmdor boshchilik qilgani uchun ularni kidariylar deb ham atashgan.",
+  "p": 16,
+  "src": "Ularga Kidar ismli hukmdor boshchilik qilganligi uchun"
+ },
+ {
+  "q": "Kidariylar davlatining poytaxti qaysi shahar bo‘lgan?",
+  "a": "Balx",
+  "w": [
+   "Samarqand",
+   "Buxoro",
+   "Toshkent"
+  ],
+  "e": "Balx shahri yangi davlatning poytaxtiga aylantirilgan.",
+  "p": 16,
+  "src": "Balx shahri bu yangi davlatning"
+ },
+ {
+  "q": "Kidariylar o‘z hukmronligini dastlab qayerda o‘rnatdilar?",
+  "a": "Xioniylar davlatining janubiy qismida",
+  "w": [
+   "Xioniylar davlatining shimoliy qismida",
+   "Sosoniylar davlati hududida",
+   "Xorazmning shimolida"
+  ],
+  "e": "Kidariylar xioniylar davlatining janubiy qismida o‘z hukmronligini o‘rnatgan.",
+  "p": 16,
+  "src": "Xioniylar davlatining janubiy qismida"
+ },
+ {
+  "q": "Manbalarga ko‘ra, kidariylar dastlab qaysi hududda yashagan?",
+  "a": "Sharqiy Turkistonda",
+  "w": [
+   "Orol bo‘ylarida",
+   "Shimoliy Hindistonda",
+   "Afg‘onistonda"
+  ],
+  "e": "Manbalarda kidariylar dastlab Sharqiy Turkiston hududida yashagani aytilgan.",
+  "p": 16,
+  "src": "kidariylar dastlab Sharqiy Turkiston hududida yashaganlar"
+ },
+ {
+  "q": "Yuechjilar (kushonlar) hukmdori Sidolo qarorgohini nima sababdan ko‘chirgan?",
+  "a": "Jujanlar hujumi tufayli",
+  "w": [
+   "Sosoniylar hujumi tufayli",
+   "Eftaliylar hujumi tufayli",
+   "Qurg‘oqchilik tufayli"
+  ],
+  "e": "Sidolo jujanlar hujumi tufayli o‘z qarorgohini Bolo (Balx)ga ko‘chirgan.",
+  "p": 16,
+  "src": "jujanlar hujumi tufayli o‘z qarorgohini"
+ },
+ {
+  "q": "Kidar Shimoliy Hindistonga yurish qilib, Gandhardan shimoldagi nechta davlatni bo‘ysundirgan?",
+  "a": "5 ta",
+  "w": [
+   "3 ta",
+   "7 ta",
+   "10 ta"
+  ],
+  "e": "Kidar Gandhardan shimoldagi 5 ta davlatni o‘ziga bo‘ysundirgan.",
+  "p": 16,
+  "src": "Gandhardan shimoldagi 5 ta davlatni"
+ },
+ {
+  "q": "Kidariylar Hindistonda qaysi davlatni egallab, necha yil hukmronlik qilgan?",
+  "a": "Gupta davlatini, 75 yil",
+  "w": [
+   "Maurya davlatini, 75 yil",
+   "Gupta davlatini, 120 yil",
+   "Kushon davlatini, 50 yil"
+  ],
+  "e": "Kidariylar Hindistonda Gupta davlatini egallab, 75 yil hukmronlik qilgan.",
+  "p": 16,
+  "src": "Gupta davlatini egallab, bu yerda 75 yil hukmronlik"
+ },
+ {
+  "q": "456-yilda kidariylar kim bilan to‘qnashgan?",
+  "a": "Sosoniylar bilan",
+  "w": [
+   "Eftaliylar bilan",
+   "Xioniylar bilan",
+   "Jujanlar bilan"
+  ],
+  "e": "456-yilda kidariylar va sosoniylar o‘rtasida to‘qnashuv bo‘lgan.",
+  "p": 17,
+  "src": "456- yilda kidariylar va sosoniylar o‘rtasida"
+ },
+ {
+  "q": "Kidariylar qaysi ko‘chmanchi chorvador aholi bilan to‘qnashib, Shimoliy Hindistonga chekingan?",
+  "a": "Eftaliylar bilan",
+  "w": [
+   "Sosoniylar bilan",
+   "Xioniylar bilan",
+   "Toxarlar bilan"
+  ],
+  "e": "Keyinchalik kidariylar eftaliylar bilan to‘qnashib, Shimoliy Hindistonga chekingan.",
+  "p": 17,
+  "src": "chorvador aholi – eftaliylar bilan to‘qnashadi"
+ },
+ {
+  "q": "Kidariylarning tangalari qaysi yozuvda zarb etilgan?",
+  "a": "Braxmiy yozuvida",
+  "w": [
+   "Lotin yozuvida",
+   "Arab yozuvida",
+   "Runiy yozuvida"
+  ],
+  "e": "Kidariylar tangalari braxmiy yozuvida zarb etilgan.",
+  "p": 17,
+  "src": "Kidariylarning tangalari braxmiy"
+ },
+ {
+  "q": "Kidariylar tangalarida qanday yozuv bitilgan?",
+  "a": "«Kidara Kushon sha»",
+  "w": [
+   "«Xioniy shoh»",
+   "«Balx shahri»",
+   "«Sosoniy xoqon»"
+  ],
+  "e": "Ba’zi tangalarda «Kidara Kushon sha» degan yozuv bitilgan.",
+  "p": 17,
+  "src": "«Kidara Kushon sha» degan yozuv bitilgan tangalar"
+ },
+ {
+  "q": "Kidariylar tangalari haqida qanday ma’lumot berilgan?",
+  "a": "Ikkita hokim tomonidan bir vaqtda zarb etilgan",
+  "w": [
+   "Faqat qirol tomonidan zarb etilgan",
+   "Sosoniylar zarbxonasida zarb etilgan",
+   "Faqat oltindan yasalgan"
+  ],
+  "e": "Bunday tangalar ikkita hokim tomonidan bir vaqtning o‘zida zarb etilgan.",
+  "p": 17,
+  "src": "ikkita hokim tomonidan bir vaqtning o‘zida zarb etilgan"
+ },
+ {
+  "q": "Xioniylar va kidariylar haqida qaysi ma’lumotlar bizgacha yetib kelmagan?",
+  "a": "Ijtimoiy-iqtisodiy tizimi haqidagi",
+  "w": [
+   "Tangalari haqidagi",
+   "Hukmdorlari haqidagi",
+   "Sosoniylar bilan to‘qnashuvi haqidagi"
+  ],
+  "e": "Xioniylar va kidariylarning ijtimoiy-iqtisodiy tizimi haqidagi ma’lumotlar bizgacha yetib kelmagan.",
+  "p": 17,
+  "src": "tizimi haqidagi ma’lumotlar bizgacha yetib kelmagan"
+ }
+]
